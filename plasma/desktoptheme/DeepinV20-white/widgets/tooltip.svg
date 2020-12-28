@@ -470,7 +470,7 @@
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4152"
        width="6"
        height="32"
@@ -495,7 +495,7 @@
        id="rect4159"
        transform="translate(-31,904.36218)"
        d="M 55,6 C 48.906024,6 44,10.90603 44,17 v 1 H 56 V 6 Z"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2" />
+       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2" />
     <path
        id="path948"
        style="opacity:0.05;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
@@ -512,7 +512,7 @@
        height="32"
        width="6"
        id="rect4148"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="rotate(90)" />
     <rect
        transform="rotate(90)"
@@ -534,7 +534,7 @@
        height="32"
        width="5.9999995"
        id="rect4144"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
     <rect
        transform="scale(-1,1)"
@@ -551,7 +551,7 @@
      id="right">
     <rect
        class="ColorScheme-Background"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4140"
        width="5.9999995"
        height="32"
@@ -567,7 +567,7 @@
        class="ColorScheme-Background" />
   </g>
   <rect
-     style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.625;stop-color:#eff0f1"
+     style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.625;stop-color:#eff0f1"
      id="center"
      width="19.999992"
      height="19.999992"

@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
    sodipodi:docname="background.svg"
    id="svg226"
    viewBox="0 0 121 56"
@@ -33,9 +33,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="19.18397"
-     inkscape:cx="48.643753"
-     inkscape:zoom="7.2076681"
+     inkscape:cy="37.332727"
+     inkscape:cx="77.59095"
+     inkscape:zoom="8.7682019"
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -625,7 +625,7 @@
      id="hint-left-margin"
      style="fill:#ff00ff" />
   <g
-     style="opacity:0.25"
+     style="opacity:0.3"
      id="shadow-top"
      transform="translate(58,-904.36)">
     <rect
@@ -683,7 +683,7 @@
        style="fill:none" />
   </g>
   <g
-     style="opacity:0.25"
+     style="opacity:0.3"
      id="shadow-left"
      transform="translate(58,-904.36)">
     <rect
@@ -712,7 +712,7 @@
        style="fill:none" />
   </g>
   <g
-     style="opacity:0.25"
+     style="opacity:0.3"
      id="shadow-right"
      transform="translate(58,-904.36)">
     <rect
@@ -849,7 +849,7 @@
        y="914.36218" />
   </g>
   <use
-     style="opacity:1"
+     style="opacity:1;fill:#000000;fill-opacity:1"
      height="100%"
      width="100%"
      transform="rotate(90,93.000016,27.99998)"

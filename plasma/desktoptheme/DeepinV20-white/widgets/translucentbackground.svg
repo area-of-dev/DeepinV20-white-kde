@@ -14,7 +14,7 @@
    viewBox="0 0 121 56"
    id="svg177"
    sodipodi:docname="translucentbackground.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)">
   <metadata
      id="metadata181">
     <rdf:RDF>
@@ -486,7 +486,7 @@
      id="top"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1"
        id="rect42"
        height="32"
        width="6"
@@ -518,7 +518,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1"
        d="m 19,6 c -3.324,0 -6,2.676 -6,6 h 4 1 1 V 11 7 Z"
        transform="translate(0,904.36)"
        id="path55" />
@@ -527,7 +527,7 @@
      id="bottom"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1"
        id="rect69"
        height="32"
        width="6"
@@ -548,7 +548,7 @@
      id="left"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1"
        id="rect96"
        height="32"
        width="6"
@@ -569,7 +569,7 @@
      id="right"
      transform="translate(0,-904.36)">
     <rect
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:#ffffff;fill-opacity:1"
        id="rect101"
        height="32"
        width="6"
@@ -586,7 +586,8 @@
   </g>
   <g
      id="center"
-     transform="translate(0,-904.36)">
+     transform="translate(0,-904.36)"
+     style="fill:none">
     <rect
        style="fill:none"
        id="rect106"
@@ -595,7 +596,7 @@
        y="916.35999"
        x="19" />
     <rect
-       style="color:#eff0f1;opacity:0.3;fill:#ffffff;fill-opacity:1"
+       style="color:#eff0f1;opacity:0.7;fill:none;fill-opacity:1"
        id="rect108"
        height="32"
        width="32"
@@ -646,7 +647,7 @@
        x="-916.35999"
        transform="matrix(0,-1,-1,0,0,0)" />
     <rect
-       style="opacity:0.35;fill:url(#linearGradient1037)"
+       style="opacity:0.75;fill:url(#linearGradient1037)"
        id="rect119"
        height="32"
        width="6"
@@ -675,7 +676,7 @@
        x="948.35999"
        transform="rotate(90)" />
     <rect
-       style="opacity:0.35;fill:url(#linearGradient1043)"
+       style="opacity:0.75;fill:url(#linearGradient1043)"
        id="rect160"
        height="32"
        width="6"
@@ -704,7 +705,7 @@
        x="-19"
        transform="scale(-1,1)" />
     <rect
-       style="opacity:0.35;fill:url(#linearGradient1045)"
+       style="opacity:0.75;fill:url(#linearGradient1045)"
        id="rect201"
        height="32"
        width="6"
@@ -732,7 +733,7 @@
        y="916.35999"
        x="51" />
     <rect
-       style="opacity:0.35;fill:url(#linearGradient1047)"
+       style="opacity:0.75;fill:url(#linearGradient1047)"
        id="rect208"
        height="32"
        width="6"
@@ -822,7 +823,7 @@
      transform="translate(58,-904.36218)"
      style="opacity:0.25">
     <path
-       style="opacity:0.35;fill:url(#radialGradient1139);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:0.75;fill:url(#radialGradient1139);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 65,0 v 12 h 6 C 71,8.6760127 73.676013,6 77,6 V 0 Z"
        transform="translate(-58,904.36218)"
        id="path4828"

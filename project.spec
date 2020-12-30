@@ -31,8 +31,9 @@ BuildArch: noarch
 %define WALLPAPER_DIR   /usr/share/wallpapers
 %define KVANTUM_DIR     /usr/share/Kvantum
 %define DIR_SDDM        /usr/share/sddm/themes
+%define DIR_ICONS       /usr/share/icons
 
-#%define _unpackaged_files_terminate_build 0
+%define _unpackaged_files_terminate_build 0
 
 %description
 DeepinV20-white kde is a light clean theme for KDE Plasma desktop.
@@ -49,6 +50,9 @@ install -d $RPM_BUILD_ROOT%{LOOKFEEL_DIR}
 install -d $RPM_BUILD_ROOT%{WALLPAPER_DIR}
 install -d $RPM_BUILD_ROOT%{KVANTUM_DIR}
 install -d $RPM_BUILD_ROOT%{DIR_SDDM}
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
 
 cp --recursive ./aurorae/*                            $RPM_BUILD_ROOT%{AURORAE_DIR}
 cp --recursive ./color-schemes/*.colors               $RPM_BUILD_ROOT%{SCHEMES_DIR}
@@ -57,6 +61,12 @@ cp --recursive ./plasma/look-and-feel/*               $RPM_BUILD_ROOT%{LOOKFEEL_
 cp --recursive ./wallpaper/*                          $RPM_BUILD_ROOT%{WALLPAPER_DIR}
 cp --recursive ./Kvantum/*                            $RPM_BUILD_ROOT%{KVANTUM_DIR}
 cp --recursive ./sddm/DeepinV20-*                     $RPM_BUILD_ROOT%{DIR_SDDM}
+cp --recursive ./icons/*                              $RPM_BUILD_ROOT%{DIR_ICONS}
+cp --recursive ./cursor/DeepinV20-white/dist/*        $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
+cp --recursive ./cursor/DeepinV20-dark/dist/*         $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
+
+find $RPM_BUILD_ROOT%{DIR_ICONS} -name "*.py" -exec rm -rf {} \;
+find $RPM_BUILD_ROOT%{DIR_ICONS} -name ".git*" -exec rm -rf {} \;
 
 %files 
 %defattr(644,root,root,755)
@@ -76,4 +86,5 @@ cp --recursive ./sddm/DeepinV20-*                     $RPM_BUILD_ROOT%{DIR_SDDM}
 %{WALLPAPER_DIR}/*
 %{KVANTUM_DIR}/*
 %{DIR_SDDM}/*
+%{DIR_ICONS}/*
 

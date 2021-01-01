@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,305 +9,250 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="phone.svg"
+   width="32"
+   height="32"
+   id="svg3869"
    version="1.1"
-   viewBox="0 0 22 22"
-   id="svg49">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="phone.svgz"
+   viewBox="0 0 32 32">
+  <defs
+     id="defs3871">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3498db;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3498db;
+      }
+      </style>
+  </defs>
   <sodipodi:namedview
-     inkscape:current-layer="svg49"
-     inkscape:window-maximized="1"
-     inkscape:window-y="36"
-     inkscape:window-x="0"
-     inkscape:cy="-7.9019247"
-     inkscape:cx="11.91374"
-     inkscape:zoom="5.9609375"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox="true"
-     showgrid="true"
-     id="namedview31"
-     inkscape:window-height="932"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.8515625"
+     inkscape:cx="-4.4604338"
+     inkscape:cy="-1.1661618"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false">
     <inkscape:grid
-       id="grid872"
-       type="xygrid" />
+       type="xygrid"
+       id="grid4132"
+       originx="5"
+       originy="4.9999826" />
+    <sodipodi:guide
+       position="7,25"
+       orientation="18,0"
+       id="guide4138" />
+    <sodipodi:guide
+       position="7,7"
+       orientation="0,18"
+       id="guide4140" />
+    <sodipodi:guide
+       position="25,7"
+       orientation="-18,0"
+       id="guide4142" />
+    <sodipodi:guide
+       position="25,25"
+       orientation="0,-18"
+       id="guide4144" />
+    <sodipodi:guide
+       position="8,24"
+       orientation="16,0"
+       id="guide4146" />
+    <sodipodi:guide
+       position="8,8"
+       orientation="0,16"
+       id="guide4148" />
+    <sodipodi:guide
+       position="24,8"
+       orientation="-16,0"
+       id="guide4150" />
+    <sodipodi:guide
+       position="24,24"
+       orientation="0,-16"
+       id="guide4152" />
+    <sodipodi:guide
+       position="2,29.999997"
+       orientation="28,0"
+       id="guide4265" />
+    <sodipodi:guide
+       position="2,1.9999974"
+       orientation="0,28"
+       id="guide4267" />
+    <sodipodi:guide
+       position="30,1.9999974"
+       orientation="-28,0"
+       id="guide4269" />
+    <sodipodi:guide
+       position="30,29.999997"
+       orientation="0,-28"
+       id="guide4271" />
   </sodipodi:namedview>
   <metadata
-     id="metadata53">
+     id="metadata3874">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; }</style>
-  </defs>
   <g
-     id="phone"
-     transform="translate(-362,-535.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <path
-       class="ColorScheme-Text"
-       d="m 331,531.36 c -1.108,0 -2,0.89199 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.89199 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 h -9.6523 z m 0,1 h 2.4922 l 0.49023,0.65234 c 0.11592,0.15381 0.15505,0.34766 0.34766,0.34766 h 5.3398 c 0.19261,0 0.23174,-0.19385 0.34766,-0.34766 l 0.49023,-0.65234 h 2.4922 c 0.554,0 1,0.446 1,1 v 24 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -24 c 0,-0.554 0.446,-1 1,-1 z"
-       fill="currentColor"
-       id="path5" />
-    <rect
-       x="321"
-       y="529.35999"
-       width="32"
-       height="32"
-       fill="none"
-       id="rect7" />
-    <rect
-       class="ColorScheme-Text"
-       x="333"
-       y="556.35999"
-       width="8"
-       height="1"
-       ry="0.5"
-       fill="currentColor"
-       opacity="0.5"
-       id="rect9" />
-  </g>
-  <g
-     id="16-16-phone"
-     transform="translate(-363,-493.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <rect
-       x="301"
-       y="494.35999"
-       width="16"
-       height="16"
-       ry="0.42105001"
-       opacity="0"
-       id="rect12" />
-    <path
-       class="ColorScheme-Text"
-       transform="translate(321,529.36)"
-       d="m -14,-34 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.89199,2 2,2 h 4 c 1.108,0 2,-0.89199 2,-2 v -10 c 0,-1.108 -0.89199,-2 -2,-2 z m 0,1 h 4 c 0.55401,0 1,0.446 1,1 v 10 c 0,0.55401 -0.44599,1 -1,1 h -4 c -0.55401,0 -1,-0.44599 -1,-1 v -10 c 0,-0.554 0.44599,-1 1,-1 z"
-       fill="currentColor"
-       id="path14" />
-    <circle
-       cx="307.5"
-       cy="497.85999"
-       r="0.5"
-       fill="currentColor"
-       opacity="0.5"
-       id="circle16" />
-  </g>
-  <g
-     id="phone-battery"
-     transform="translate(-362,-535.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <path
-       transform="translate(321,529.36)"
-       d="m 10,-40 c -1.108,0 -2,0.89199 -2,2 v 24 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.89199 2,-2 v -24 c 0,-1.108 -0.892,-2 -2,-2 h -9.6523 z m 0,1 h 2.4922 l 0.49023,0.65234 C 13.09835,-38.19385 13.13748,-38 13.33009,-38 h 5.3398 c 0.19261,0 0.23174,-0.19385 0.34766,-0.34766 L 19.50778,-39 h 2.4922 c 0.554,0 1,0.446 1,1 v 24 c 0,0.554 -0.446,1 -1,1 h -12 c -0.554,0 -1,-0.446 -1,-1 v -24 c 0,-0.554 0.446,-1 1,-1 z m 6.5,6 -4,8 H 15 v 6 l 4.5,-8 h -3 z"
-       id="path19" />
-    <rect
-       x="321"
-       y="487.35999"
-       width="32"
-       height="32"
-       fill="none"
-       id="rect21" />
-    <rect
-       class="ColorScheme-Text"
-       fill="currentColor"
-       x="333"
-       y="514.35999"
-       width="8"
-       height="1"
-       ry="0.5"
-       opacity="0.5"
-       id="rect23" />
-  </g>
-  <g
-     id="16-16-phone-battery"
-     transform="translate(-362,-535.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <rect
-       x="300"
-       y="494.35999"
-       width="16"
-       height="16"
-       ry="0.42105001"
-       opacity="0"
-       id="rect26" />
-    <path
-       class="ColorScheme-Text"
-       d="m 306,495.36 c -1.108,0 -2,0.892 -2,2 v 10 c 0,1.108 0.89199,2 2,2 h 4 c 1.108,0 2,-0.89199 2,-2 v -10 c 0,-1.108 -0.89199,-2 -2,-2 z m 0,1 h 4 c 0.55401,0 1,0.446 1,1 v 10 c 0,0.55401 -0.44599,1 -1,1 h -4 c -0.55401,0 -1,-0.44599 -1,-1 v -10 c 0,-0.554 0.44599,-1 1,-1 z"
-       fill="currentColor"
-       id="path28" />
-    <circle
-       class="ColorScheme-Text"
-       cx="306.5"
-       cy="497.85999"
-       r="0.5"
-       fill="currentColor"
-       opacity="0.5"
-       id="circle30" />
-    <path
-       class="ColorScheme-Text"
-       d="m 308,505.36 1,-3 h -1 v -2 l -1,3 h 1 z"
-       fill="currentColor"
-       id="path32" />
-  </g>
-  <g
-     id="22"
-     transform="translate(-285,-529.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <rect
-       x="362"
-       y="493.35999"
-       width="22"
-       height="22"
-       fill="none"
-       id="rect35" />
-    <rect
-       class="ColorScheme-Text"
-       x="370"
-       y="510.35999"
-       width="6"
-       height="1"
-       ry="0.5"
-       fill="currentColor"
-       opacity="0.5"
-       id="rect37" />
-    <path
-       transform="translate(321,529.36)"
-       d="m 48,-35 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 v -14 c 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 1.108,0 2,0.89201 2,2 v 14 c 0,1.108 -0.89201,2 -2,2 h -8 c -1.108,0 -2,-0.89201 -2,-2 v -14 c 0,-1.108 0.89201,-2 2,-2 z m 4,5 -2,5 h 2 v 3 l 2,-5 h -2 z"
-       id="path39" />
-  </g>
-  <g
-     id="2"
-     transform="translate(-295,-529.36)"
-     class="ColorScheme-Text"
-     fill="currentColor">
-    <rect
-       x="362"
-       y="535.35999"
-       width="22"
-       height="22"
-       fill="none"
-       id="rect42" />
-    <rect
-       class="ColorScheme-Text"
-       x="370"
-       y="552.35999"
-       width="6"
-       height="1"
-       ry="0.5"
-       fill="currentColor"
-       opacity="0.5"
-       id="rect44" />
-    <path
-       transform="translate(321,529.36)"
-       d="m 48,7 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 V 10 C 59,8.338 57.662,7 56,7 h -2 -4 z m 0,1 h 1 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 h 1 c 1.108,0 2,0.89201 2,2 v 14 c 0,1.108 -0.89201,2 -2,2 h -8 c -1.108,0 -2,-0.89201 -2,-2 V 10 c 0,-1.108 0.89201,-2 2,-2 z"
-       id="path46" />
-  </g>
-  <g
-     transform="translate(-65.837081,-5.144531)"
-     id="22-22-phone">
-    <rect
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round"
-       id="rect882"
-       width="22"
-       height="22"
-       x="5.1445303"
-       y="-87.837082"
-       ry="6.4166665"
-       transform="rotate(90)" />
-    <path
-       d="m 73.979659,9.144531 c -1.187143,0 -2.142578,0.955435 -2.142578,2.142578 v 10.714844 c 0,1.187143 0.955435,2.142578 2.142578,2.142578 h 5.714844 c 1.187143,0 2.142578,-0.955435 2.142578,-2.142578 V 11.287109 c 0,-1.187143 -0.955435,-2.142578 -2.142578,-2.142578 z m -0.142578,1 h 6 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -11 c 0,-0.554 0.446,-1 1,-1 z"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:2.18218;stroke-linecap:round"
-       id="rect891" />
-    <rect
-       style="color:#363636;fill:#ffffff;fill-opacity:1;stroke-width:0.913594"
-       id="rect922"
-       ry="1"
-       height="2"
-       width="5.007925"
-       y="9.1445312"
-       x="74.333122" />
-    <rect
-       style="color:#363636;fill:#ffffff;fill-opacity:1;stroke-width:0.816497"
-       id="rect924"
-       opacity="0.5"
-       ry="0.49996999"
-       height="0.99993998"
-       width="4"
-       y="21.144592"
-       x="74.837082" />
-  </g>
-  <rect
-     x="101"
-     y="-36.000015"
-     width="22"
-     height="22"
-     fill="none"
-     id="rect902"
-     style="color:#363636" />
-  <g
-     transform="translate(-65.837082,-3)"
-     id="22-22-phone-battery">
-    <rect
-       transform="rotate(90)"
-       ry="6.4166665"
-       y="-87.837082"
-       x="-39"
-       height="22"
-       width="22"
-       id="rect887"
-       style="opacity:0.8;fill:#242424;fill-opacity:1;stroke-width:0.471428;stroke-linecap:round" />
-    <path
-       id="path889"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:2.18218;stroke-linecap:round"
-       d="m 73.979659,-35 c -1.187143,0 -2.142578,0.955435 -2.142578,2.142578 v 10.714844 c 0,1.187143 0.955435,2.142578 2.142578,2.142578 h 5.714844 c 1.187143,0 2.142578,-0.955435 2.142578,-2.142578 V -32.857422 C 81.837081,-34.044565 80.881646,-35 79.694503,-35 Z m -0.142578,1 h 6 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 v -11 c 0,-0.554 0.446,-1 1,-1 z" />
-    <rect
-       x="74.333122"
-       y="-35"
-       width="5.007925"
-       height="2"
-       ry="1"
-       id="rect892"
-       style="color:#363636;fill:#ffffff;fill-opacity:1;stroke-width:0.913594" />
-    <rect
-       x="74.837082"
-       y="-22.999939"
-       width="4"
-       height="0.99993998"
-       ry="0.49996999"
-       opacity="0.5"
-       id="rect894"
-       style="color:#363636;fill:#ffffff;fill-opacity:1;stroke-width:0.816497" />
-    <path
-       id="path906"
-       style="color:#363636;fill:#ffffff;fill-opacity:1"
-       d="m 77,-32 -2,5 h 2 v 3 l 2,-5 h -2 z" />
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-321,-529.36218)">
+    <g
+       id="phone">
+      <rect
+         y="529.36218"
+         x="321"
+         height="32"
+         width="32"
+         id="rect4436"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none"
+         d="M 8 2 L 8 26 L 8 27 L 8 30 L 24 30 L 24 2 L 8 2 z M 13 3 L 19 3 L 19 4 L 13 4 L 13 3 z M 9 5 L 23 5 L 23 28 L 9 28 L 9 5 z "
+         transform="translate(321,529.36218)"
+         id="path4167"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="16-16-phone"
+       inkscape:label="#16-16-phone">
+      <rect
+         y="537.36218"
+         x="303"
+         height="16"
+         width="16"
+         id="rect4442"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079043;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none"
+         d="M -14 10 L -14 22 L -6 22 L -6 10 L -14 10 z M -11 11 L -9 11 L -9 12 L -11 12 L -11 11 z M -13 13 L -7 13 L -7 20 L -13 20 L -13 13 z "
+         transform="translate(321,529.36218)"
+         id="path4193"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="22-22-phone"
+       transform="translate(-1,0)"
+       inkscape:label="#22-22-phone">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13858683;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4444"
+         width="22"
+         height="22"
+         x="356"
+         y="534.36218" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 40 8 L 40 24 L 50 24 L 50 8 L 40 8 z M 43 9 L 47 9 L 47 10 L 43 10 L 43 9 z M 41 11 L 49 11 L 49 23 L 41 23 L 41 11 z "
+         transform="translate(322,529.36218)"
+         id="path4181"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="phone-battery"
+       transform="translate(0,32)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4162"
+         width="32"
+         height="32"
+         x="321"
+         y="529.36218" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none"
+         d="M 8 34 L 8 58 L 8 59 L 8 62 L 24 62 L 24 34 L 8 34 z M 13 35 L 19 35 L 19 36 L 13 36 L 13 35 z M 9 37 L 23 37 L 23 59 L 23 60 L 9 60 L 9 59 L 9 37 z M 16.5 41 L 12.5 49 L 15 49 L 15 55 L 19.5 47 L 16.5 47 L 16.5 41 z "
+         transform="translate(321,497.36218)"
+         id="path4214"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="16-16-phone-battery"
+       transform="translate(0,32)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.10079043;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4168"
+         width="16"
+         height="16"
+         x="303"
+         y="537.36218" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none"
+         d="m -14,42 0,12 8,0 0,-12 z m 3,1 2,0 0,1 -2,0 z m -2,2 6,0 0,7 -3,0 -3,0 z m 3,6 1,-3 -1,0 0,-2 -1,3 1,0 z"
+         transform="translate(321,497.36218)"
+         id="path4201"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccc"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       transform="translate(-1,32)"
+       id="22-22-phone-battery">
+      <rect
+         y="534.36218"
+         x="356"
+         height="22"
+         width="22"
+         id="rect4174"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13858683;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#3498db;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 40 40 L 40 56 L 50 56 L 50 40 L 40 40 z M 43 41 L 47 41 L 47 42 L 43 42 L 43 41 z M 41 43 L 49 43 L 49 55 L 41 55 L 41 43 z M 45 45 L 43 50 L 45 50 L 45 53 L 47 48 L 45 48 L 45 45 z "
+         transform="translate(322,497.36218)"
+         id="path4239"
+         class="ColorScheme-Text" />
+    </g>
   </g>
 </svg>

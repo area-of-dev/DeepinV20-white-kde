@@ -1,17 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg12"
-   viewBox="0 0 22 22"
-   version="1.1"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
    height="22"
-   width="22">
+   viewBox="0 0 22 22"
+   id="svg4166"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kleopatra.svgz">
+  <defs id="defs1">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      </style>
+  </defs>
+  <defs
+     id="defs4168" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="11.937506"
+     inkscape:cy="6.0431929"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4714"
+       spacingx="0.5"
+       spacingy="0.5" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata16">
+     id="metadata4171">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -22,31 +68,26 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs3">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text {
-        color:#363636;
-      }</style>
-  </defs>
   <g
-     id="g10"
-     transform="translate(0 -1030.4)">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
     <g
        id="kleopatra">
       <rect
-         id="rect5"
-         fill="none"
+         y="1030.3622"
+         x="0"
          height="22"
          width="22"
-         y="1030.4" />
+         id="rect4764"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         id="path7"
-         fill="currentColor"
-         d="m9 3c-3.2222 0-6.748 2.0664-6.748 2.0664a0.5004 0.5004 0 0 0 0.49609 0.86914s3.4742-1.9355 6.252-1.9355c1.3611 0 3.2168 0.59961 5.0918 1.2246s3.7693 1.2754 5.4082 1.2754a0.50005 0.50005 0 1 0 0-1c-1.3611 0-3.2168-0.59766-5.0918-1.2227s-3.7693-1.2773-5.4082-1.2773zm0.5 4a2.8055 2.8055 0 0 0-0.26367 0.015625c-4.1917 0.16665-7.1367 4.1855-7.1367 4.1855a0.50005 0.50005 0 0 0 0.15234 0.73438s1.3083 0.74454 3.248 1.3398v5.2246a0.50005 0.50005 0 1 0 1 0v-4.957c0.68995 0.16894 1.4246 0.30479 2.2051 0.38086 0.11584 0.13712 0.64273 0.75604 1.4414 1.5547 0.89184 0.8919 2.0265 1.9166 3.1309 2.4688 2.0474 1.0237 3.5868 1.4049 4.8633 1.0332 0.58732-0.171 1.0426-0.39628 1.3711-0.73438s0.48828-0.79279 0.48828-1.2461c0-0.5404-0.27156-1.0079-0.63086-1.3672s-0.8287-0.63281-1.3691-0.63281c-0.52112 0-0.99495 0.2425-1.3613 0.5957-0.36638 0.3533-0.63867 0.8423-0.63867 1.4043a0.50005 0.50005 0 1 0 1 0c0-0.227 0.12518-0.48615 0.33203-0.68555 0.20685-0.1995 0.48198-0.31445 0.66797-0.31445 0.16667 0 0.44819 0.12584 0.66211 0.33984 0.21392 0.2139 0.33789 0.49356 0.33789 0.66016 0 0.2539-0.05282 0.39408-0.20508 0.55078-0.15226 0.1567-0.44576 0.3281-0.93555 0.4707-0.87771 0.2556-2.1842 0.00995-4.1367-0.96875-0.89565-0.4479-2.011-1.423-2.8691-2.2812-0.298-0.29801-0.51128-0.53324-0.73438-0.77539 4.1373-0.048889 6.7246-2.5833 9.5391-3.5215a0.50005 0.50005 0 0 0-0.076172-0.9668c-2.96-0.4933-4.3911-1.0935-5.6465-1.5957-1.1921-0.47682-2.2853-0.86-4.1563-0.89844a2.8055 2.8055 0 0 0-0.2793-0.013672zm2.3281 1.2422c0.60282 0.14722 1.1263 0.35363 1.7363 0.59766 1.0008 0.4003 2.427 0.88482 4.4434 1.3281-2.5289 1.1714-4.7865 2.832-8.0078 2.832-3.2913 0-5.8543-1.257-6.6328-1.6602 0.42681-0.50901 1.7418-1.9878 3.6289-2.7949a2.8055 2.8055 0 0 0-0.30078 1.2598 2.8055 2.8055 0 0 0 2.8047 2.8066 2.8055 2.8055 0 0 0 2.8047-2.8066 2.8055 2.8055 0 0 0-0.47656-1.5625z"
-         transform="translate(0 1030.4)"
-         class="ColorScheme-Text" />
+         style="color:#3498db;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 9 3 C 5.7777778 3 2.2519531 5.0664062 2.2519531 5.0664062 A 0.50040426 0.50040426 0 0 0 2.7480469 5.9355469 C 2.7480469 5.9355469 6.2222222 4 9 4 C 10.361111 4 12.216797 4.5996094 14.091797 5.2246094 C 15.966797 5.8496094 17.861111 6.5 19.5 6.5 A 0.50005 0.50005 0 1 0 19.5 5.5 C 18.138889 5.5 16.283203 4.9023438 14.408203 4.2773438 C 12.533203 3.6523438 10.638889 3 9 3 z M 9.5 7 A 2.8055201 2.8055201 0 0 0 9.2363281 7.015625 C 5.0446571 7.1822794 2.0996094 11.201172 2.0996094 11.201172 A 0.50005 0.50005 0 0 0 2.2519531 11.935547 C 2.2519531 11.935547 3.5602499 12.680083 5.5 13.275391 L 5.5 18.5 A 0.50005 0.50005 0 1 0 6.5 18.5 L 6.5 13.542969 C 7.1899535 13.711914 7.9246328 13.847763 8.7050781 13.923828 C 8.8209216 14.060947 9.3478036 14.679867 10.146484 15.478516 C 11.03832 16.370416 12.172994 17.395066 13.277344 17.947266 C 15.324783 18.970966 16.864114 19.352169 18.140625 18.980469 C 18.727947 18.809469 19.183253 18.584194 19.511719 18.246094 C 19.840185 17.907994 20 17.4533 20 17 C 20 16.4596 19.728441 15.992112 19.369141 15.632812 C 19.009841 15.273512 18.54044 15 18 15 C 17.478877 15 17.005048 15.242503 16.638672 15.595703 C 16.272295 15.949003 16 16.438 16 17 A 0.50005 0.50005 0 1 0 17 17 C 17 16.773 17.125184 16.513853 17.332031 16.314453 C 17.538878 16.114953 17.814016 16 18 16 C 18.166667 16 18.448186 16.125844 18.662109 16.339844 C 18.876033 16.553744 19 16.8334 19 17 C 19 17.2539 18.94718 17.394081 18.794922 17.550781 C 18.642665 17.707481 18.349163 17.878884 17.859375 18.021484 C 16.981667 18.277084 15.675217 18.031434 13.722656 17.052734 C 12.827006 16.604834 11.71168 15.629684 10.853516 14.771484 C 10.555515 14.473472 10.342232 14.238241 10.119141 13.996094 C 14.256444 13.947205 16.843741 11.412768 19.658203 10.474609 A 0.50005 0.50005 0 0 0 19.582031 9.5078125 C 16.62202 9.0145125 15.190883 8.4143094 13.935547 7.9121094 C 12.743414 7.4352889 11.650215 7.0521131 9.7792969 7.0136719 A 2.8055201 2.8055201 0 0 0 9.5 7 z M 11.828125 8.2421875 C 12.430943 8.3894071 12.954434 8.5958191 13.564453 8.8398438 C 14.56528 9.2401438 15.991471 9.7246688 18.007812 10.167969 C 15.47889 11.339369 13.221332 13 10 13 C 6.7086819 13 4.1456775 11.743044 3.3671875 11.339844 C 3.7939997 10.830832 5.1089802 9.3520021 6.9960938 8.5449219 A 2.8055201 2.8055201 0 0 0 6.6953125 9.8046875 A 2.8055201 2.8055201 0 0 0 9.5 12.611328 A 2.8055201 2.8055201 0 0 0 12.304688 9.8046875 A 2.8055201 2.8055201 0 0 0 11.828125 8.2421875 z "
+         transform="translate(0,1030.3622)"
+         class="ColorScheme-Text"
+         id="path4716" />
     </g>
   </g>
 </svg>

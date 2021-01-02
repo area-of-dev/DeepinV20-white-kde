@@ -45,6 +45,7 @@ import org.kde.plasma.private.sessions 2.0
 import org.kde.plasma.workspace.keyboardlayout 1.0
 
 import org.kde.kcoreaddons 1.0 as KCoreAddons
+import org.kde.plasma.wallpapers.image 2.0 as Wallpaper
 
 import "../components"
 import "timer.js" as AutoTriggerTimer
@@ -158,7 +159,6 @@ PlasmaCore.ColorScope {
         color: "black"
         opacity: 0.55
     }
-
 
     MouseArea {
         anchors.fill: parent

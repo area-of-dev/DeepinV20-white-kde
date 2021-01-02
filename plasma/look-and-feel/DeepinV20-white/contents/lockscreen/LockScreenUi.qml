@@ -197,10 +197,10 @@ PlasmaCore.ColorScope {
             id: users
 
             Component.onCompleted: {
-                users.append({name: kscreenlocker_userName,
-                                realName: kscreenlocker_userName,
-                                icon: kscreenlocker_userImage,
-
+                users.append({
+                    name: kscreenlocker_userName,
+                    realName: kscreenlocker_userName,
+                    icon: kscreenlocker_userImage,
                 })
             }
         }

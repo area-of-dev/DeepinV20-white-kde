@@ -4,5 +4,5 @@
         color:#232629;
       }</style>
     </defs>
-    <rect x="2.4988089" y="3.5160389" width="10.998194" height="8.9580956" fill="#3498db" stroke="currentColor" stroke-dasharray="2,2" stroke-dashoffset="4.95" stroke-miterlimit="3.9000001" class="ColorScheme-Text" color="#3498db" style=""/>
+    <rect x="2.4988089" y="3.5160389" width="10.998194" height="8.9580956" fill="#3498db" stroke="#3498db" stroke-dasharray="2,2" stroke-dashoffset="4.95" stroke-miterlimit="3.9000001" class="ColorScheme-Text" color="#3498db" style=""/>
 </svg>

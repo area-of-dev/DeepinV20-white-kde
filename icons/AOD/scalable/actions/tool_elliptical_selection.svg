@@ -4,5 +4,5 @@
         color:#232629;
       }</style>
     </defs>
-    <ellipse cx="7.9878635" cy="8.0085039" rx="5.5101886" ry="4.478539" fill="#3498db" stroke="currentColor" stroke-dasharray="2,2" class="ColorScheme-Text" color="#3498db" style=""/>
+    <ellipse cx="7.9878635" cy="8.0085039" rx="5.5101886" ry="4.478539" fill="#3498db" stroke="#3498db" stroke-dasharray="2,2" class="ColorScheme-Text" color="#3498db" style=""/>
 </svg>

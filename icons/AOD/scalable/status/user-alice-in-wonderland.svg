@@ -16,7 +16,7 @@
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4213" id="linearGradient4465" x1="47" y1="64" x2="60.125" y2="77.125" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.28,0,0,1.2799998,1.28,-3.8400355)"/>
   </defs>
   <g transform="translate(0,-924.36216)" id="g12" color="#3498db" fill="#3498db" style="">
-    <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 0 0 L 0 128 L 128 128 L 128 0 L 0 0 z " transform="translate(0,924.36216)" class="ColorScheme-Highlight" id="rect5879"/>
+    <path style="fill:#3498db;fill-opacity:1;stroke:none" d="M 0 0 L 0 128 L 128 128 L 128 0 L 0 0 z " transform="translate(0,924.36216)" class="ColorScheme-Highlight" id="rect5879"/>
   </g>
   <path style="" d="m 98.56,11.775988 29.44,29.439944 0,86.783978 -51.2,0 z" color="#3498db" fill="#3498db"/>
   <path style="" class="ColorScheme-Highlight" d="M 64,-3.6072446e-5 C 19.2,-3.6072446e-5 16.64,31.999959 19.2,63.999916 21.80239,96.529702 12.8,121.59991 6.4,127.99991 l 115.2,0 c -6.4,-6.4 -15.40239,-31.470208 -12.8,-63.999994 C 111.36,31.999959 108.8,-3.6072446e-5 64,-3.6072446e-5 Z" color="#3498db" fill="#3498db"/>

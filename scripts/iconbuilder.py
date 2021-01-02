@@ -25,6 +25,7 @@ def colorify(source=None, color='#3498db',ignores=[]):
 
         content = stream.read()
         content = content.replace('#53b7ec',color)
+        content = content.replace('currentColor',color)        
         content = content.replace('#3daee9',color)
         return content
 

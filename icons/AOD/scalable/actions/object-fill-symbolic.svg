@@ -6,8 +6,8 @@
       }
       </style>    
         <linearGradient id="linearGradient3778-2">
-      <stop style="stop-color:currentColor;stop-opacity:0.2" offset="0" id="stop3780-2"/>
-      <stop style="stop-color:currentColor;stop-opacity:0.7" offset="1" id="stop3782-0"/>
+      <stop style="stop-color:#3498db;stop-opacity:0.2" offset="0" id="stop3780-2"/>
+      <stop style="stop-color:#3498db;stop-opacity:0.7" offset="1" id="stop3782-0"/>
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient3778-2" id="linearGradient3784" x1="20" y1="10.666667" x2="4.0000052" y2="10.666667" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.75000025,0,0,0.75,420.71429,530.79074)"/>
   </defs>

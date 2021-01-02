@@ -5,7 +5,7 @@ widgetStyle=kvantum
 ColorScheme=DeepinV20White
 
 [kdeglobals][Icons]
-Theme=Ultra-Flat
+Theme=DeepinV20-white
 
 [plasmarc][Theme]
 name=DeepinV20-white
@@ -17,4 +17,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__DeepinV20-white
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=DeepinV20-white

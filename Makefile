@@ -56,23 +56,23 @@ docker_run:
 
 icons:
 	rm -rf $(PWD)/plasma/desktoptheme/DeepinV20-white/icons/*
-	rm -rf $(PWD)/icons/AOD/scalable
-	rm -rf $(PWD)/icons/AOD/8x8
-	rm -rf $(PWD)/icons/AOD/12x12
-	rm -rf $(PWD)/icons/AOD/16x16
-	rm -rf $(PWD)/icons/AOD/20x20
-	rm -rf $(PWD)/icons/AOD/24x24
-	rm -rf $(PWD)/icons/AOD/32x32
-	rm -rf $(PWD)/icons/AOD/48x48
-	rm -rf $(PWD)/icons/AOD/64x64/
-	rm -rf $(PWD)/icons/AOD/96x96
-	rm -rf $(PWD)/icons/AOD/128x128
-	rm -rf $(PWD)/icons/AOD/256x256
-	rm -rf $(PWD)/icons/AOD/512x512
-	mkdir --parents $(PWD)/icons/AOD/scalable
+	rm -rf $(PWD)/icons/DeepinV20-white/scalable
+	rm -rf $(PWD)/icons/DeepinV20-white/8x8
+	rm -rf $(PWD)/icons/DeepinV20-white/12x12
+	rm -rf $(PWD)/icons/DeepinV20-white/16x16
+	rm -rf $(PWD)/icons/DeepinV20-white/20x20
+	rm -rf $(PWD)/icons/DeepinV20-white/24x24
+	rm -rf $(PWD)/icons/DeepinV20-white/32x32
+	rm -rf $(PWD)/icons/DeepinV20-white/48x48
+	rm -rf $(PWD)/icons/DeepinV20-white/64x64/
+	rm -rf $(PWD)/icons/DeepinV20-white/96x96
+	rm -rf $(PWD)/icons/DeepinV20-white/128x128
+	rm -rf $(PWD)/icons/DeepinV20-white/256x256
+	rm -rf $(PWD)/icons/DeepinV20-white/512x512
+	mkdir --parents $(PWD)/icons/DeepinV20-white/scalable
 
 	python3 $(PWD)/scripts/iconbuilder.py --color=#3498db \
-					--destination=$(PWD)/icons/AOD/scalable \
+					--destination=$(PWD)/icons/DeepinV20-white/scalable \
 					--source=$(PWD)/src/icons/scalable
 
 	python3 $(PWD)/scripts/iconbuilder.py --color=#3498db \

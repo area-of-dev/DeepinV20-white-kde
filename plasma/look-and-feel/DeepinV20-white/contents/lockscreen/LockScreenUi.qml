@@ -183,6 +183,15 @@ PlasmaCore.ColorScope {
             clock: clock
         }
 
+        Clock {
+            id: clock
+            color: "white"
+            property Item shadow: clockShadow
+            anchors.horizontalCenter: parent.horizontalCenter
+            y: (mainBlock.userList.y + mainStack.y)/2 - height/2
+            visible: y > 0 && config.alwaysShowClock
+            Layout.alignment: Qt.AlignBaseline
+        }
 
         ListModel {
             id: users

@@ -52,7 +52,9 @@ install -d $RPM_BUILD_ROOT%{KVANTUM_DIR}
 install -d $RPM_BUILD_ROOT%{DIR_SDDM}
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark/cursors
 
 cp --recursive ./aurorae/*                            $RPM_BUILD_ROOT%{AURORAE_DIR}
 cp --recursive ./color-schemes/*.colors               $RPM_BUILD_ROOT%{SCHEMES_DIR}
@@ -61,8 +63,9 @@ cp --recursive ./plasma/look-and-feel/*               $RPM_BUILD_ROOT%{LOOKFEEL_
 cp --recursive ./wallpaper/*                          $RPM_BUILD_ROOT%{WALLPAPER_DIR}
 cp --recursive ./Kvantum/*                            $RPM_BUILD_ROOT%{KVANTUM_DIR}
 cp --recursive ./sddm/DeepinV20-*                     $RPM_BUILD_ROOT%{DIR_SDDM}
-cp --recursive ./icons/*                              $RPM_BUILD_ROOT%{DIR_ICONS}
-cp --recursive ./cursor/DeepinV20-white/dist/*        $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
+cp --recursive ./icons/DeepinV20-white                $RPM_BUILD_ROOT%{DIR_ICONS}
+
+cp --recursive ./cursor/DeepinV20-white/dist/cursors/*        $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
 cp --recursive ./cursor/DeepinV20-dark/dist/*         $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
 
 find $RPM_BUILD_ROOT%{DIR_ICONS} -name "*.py" -exec rm -rf {} \;

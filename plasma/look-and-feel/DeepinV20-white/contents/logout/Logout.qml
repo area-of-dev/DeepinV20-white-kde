@@ -17,18 +17,35 @@
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA .        *
  ***************************************************************************/
 
-import QtQuick 2.2
+import QtQuick 2.8
 import QtQuick.Controls 1.1
-import QtQuick.Layouts 1.2
-import QtQuick.Controls 2.12 as QQC2
+import QtQuick.Layouts 1.1
 import QtGraphicalEffects 1.0
+import QtQuick.Controls 1.1 as QQC
+import QtQuick.Controls.Styles.Plasma 2.0 as Styles
+
+
+// import QtQuick 2.2
+// import QtQuick.Controls 1.1
+// import QtQuick.Layouts 1.2
+import QtQuick.Controls 2.12 as QQC2
+// import QtGraphicalEffects 1.0
+
+
+
+// import org.kde.plasma.core 2.0 as PlasmaCore
+// import org.kde.plasma.components 3.0 as PlasmaComponents
+// import org.kde.plasma.components 3.0 as PlasmaComponents3
 
 import org.kde.plasma.core 2.0 as PlasmaCore
-import org.kde.plasma.components 3.0 as PlasmaComponents
 import org.kde.plasma.components 3.0 as PlasmaComponents3
-import org.kde.kcoreaddons 1.0 as KCoreAddons
+import org.kde.plasma.components 2.0 as PlasmaComponents
 
 import org.kde.plasma.private.sessions 2.0
+import org.kde.plasma.workspace.keyboardlayout 1.0
+
+import org.kde.kcoreaddons 1.0 as KCoreAddons
+
 import "../components"
 import "timer.js" as AutoTriggerTimer
 
@@ -121,7 +138,7 @@ PlasmaCore.ColorScope {
 
     Image {
         id: wallpaper
-        source: '../images/background.jpg'
+        source: PlasmaCore.Theme.wallpaperPath
         anchors.fill: parent
         smooth: true
         visible: false        

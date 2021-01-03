@@ -9,6 +9,10 @@ In this repository you'll find:
 - Plasma Color Schemes
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Settings
+- Icon theme
+- Gtk 3.0 theme
+- Gtk 2.0 theme
+- SDDM theme
 
 ## Installation
 

@@ -31,6 +31,9 @@ all: clean
 		--buildroot=$(PWD)/build \
 		--define "_rpmdir $(PWD)"
 
+pkg:
+	makepkg
+
 docker_init:
 	docker build -t $(CONTAINER) $(PWD)
 

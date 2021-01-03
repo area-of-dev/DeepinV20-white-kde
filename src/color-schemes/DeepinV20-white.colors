@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
+Name=DeepinV20-white
 ColorScheme=Inverse
-Name=Deepin-v20-white
 shadeSortColumn=true
 
 [KDE]

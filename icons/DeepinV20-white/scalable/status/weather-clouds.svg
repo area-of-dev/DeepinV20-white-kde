@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
- <defs color="#3498db" fill="#3498db" style="">
+ <defs color="#1e82ff" fill="#1e82ff" style="">
   <linearGradient id="0">
    <stop stop-color="#eff1f1"/>
    <stop offset="1" stop-color="#b0b8b8"/>
@@ -16,8 +16,8 @@
    <stop offset="1" stop-color="#edf573"/>
   </linearGradient>
  </defs>
- <metadata color="#3498db" fill="#3498db" style=""/>
- <g transform="translate(-384.57143,-499.798)" color="#3498db" fill="#3498db" style="">
+ <metadata color="#1e82ff" fill="#1e82ff" style=""/>
+ <g transform="translate(-384.57143,-499.798)" color="#1e82ff" fill="#1e82ff" style="">
   <g transform="matrix(0.75000047,0,0,0.75000047,101.14267,130.94927)">
    <rect ry="21.333321" y="502.46466" x="388.57141" height="42.666668" width="42.666641" fill="url(#2)" rx="21.33332"/>
    <rect y="506.46466" x="392.57141" height="34.666634" width="34.666615" fill="url(#4)" rx="17.333307"/>

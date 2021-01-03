@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <style type="text/css" id="current-color-scheme" color="#3498db" fill="#3498db" style="">
+    <style type="text/css" id="current-color-scheme" color="#1e82ff" fill="#1e82ff" style="">
         .ColorScheme-Text {
             color:#232629;
         }
@@ -7,6 +7,6 @@
             color:#da4453;
         }
     </style>
-    <path d="M11 2L7.56 5.44l3 3L14 5zM3.94 6.06l-.294.294-.414.414L5.88 9.414l-3.233 3.232.708.708 3.232-3.233 2.646 2.647.414-.414.293-.293z" class="ColorScheme-Text" fill="#3498db" color="#3498db" style=""/>
-    <path d="M2.707 2L2 2.707 13.293 14l.707-.707z" class="ColorScheme-NegativeText" fill="#3498db" color="#3498db" style=""/>
+    <path d="M11 2L7.56 5.44l3 3L14 5zM3.94 6.06l-.294.294-.414.414L5.88 9.414l-3.233 3.232.708.708 3.232-3.233 2.646 2.647.414-.414.293-.293z" class="ColorScheme-Text" fill="#1e82ff" color="#1e82ff" style=""/>
+    <path d="M2.707 2L2 2.707 13.293 14l.707-.707z" class="ColorScheme-NegativeText" fill="#1e82ff" color="#1e82ff" style=""/>
 </svg>

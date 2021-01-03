@@ -45,7 +45,7 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <rect
-     style="opacity:0.2;fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke-width:1.10583"
+     style="opacity:0.2;fill:#1e82ff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.10583"
      id="rect835"
      width="12"
      height="12"
@@ -54,7 +54,7 @@
   <path
      id="path2"
      style=""
-     color="#3498db"
+     color="#1e82ff"
      d="m2 2v12h12v-12zm1 1h10v8h-10zm1 1v3h3v-2h-1l-.9-1zm-1 8h1v1h-1zm2 0h4v1h-4zm5 0h1v1h-1zm2 0h1v1h-1z"
-     fill="#3498db" />
+     fill="#1e82ff" />
 </svg>

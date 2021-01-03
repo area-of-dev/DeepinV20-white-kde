@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051" color="#3498db" fill="#3498db" style="">
+  <defs id="defs3051" color="#1e82ff" fill="#1e82ff" style="">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
         color:#232629;
       }
       .ColorScheme-Highlight {
-        color:#3498db;
+        color:#1e82ff;
       }
       </style>
   </defs>
- <path style="" d="M3 11H19V15H3z" class="ColorScheme-Text" color="#3498db" fill="#3498db"/>
- <path style="" d="M8 8h6v5H8z" class="ColorScheme-Highlight" color="#3498db" fill="#3498db"/>
- <path style="" d="m 8,4 3.000001,3 3,-3 L 8,4 Z" class="ColorScheme-Highlight" color="#3498db" fill="#3498db"/>
+ <path style="" d="M3 11H19V15H3z" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
+ <path style="" d="M8 8h6v5H8z" class="ColorScheme-Highlight" color="#1e82ff" fill="#1e82ff"/>
+ <path style="" d="m 8,4 3.000001,3 3,-3 L 8,4 Z" class="ColorScheme-Highlight" color="#1e82ff" fill="#1e82ff"/>
 </svg>

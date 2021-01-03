@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <style type="text/css" id="current-color-scheme" color="#3498db" fill="#3498db" style="">
+    <style type="text/css" id="current-color-scheme" color="#1e82ff" fill="#1e82ff" style="">
         .ColorScheme-Text {
             color:#232629;
         }
     </style>
-    <g class="ColorScheme-Text" fill="#3498db" color="#3498db" style="">
+    <g class="ColorScheme-Text" fill="#1e82ff" color="#1e82ff" style="">
         <path d="M8 8.707l-6-6L2.707 2 8 7.293 13.293 2l.707.707z"/>
         <path d="M8 12.707l-6-6L2.707 6 8 11.293 13.293 6l.707.707z"/>
         <path d="M2 13h12v1H2z"/>

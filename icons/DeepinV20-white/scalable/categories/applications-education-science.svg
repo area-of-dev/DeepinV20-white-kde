@@ -1,5 +1,5 @@
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" id="svg5453" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="applications-education-science.svg">
-  <defs id="defs5455" color="#3498db" fill="#3498db" style="">
+  <defs id="defs5455" color="#1e82ff" fill="#1e82ff" style="">
     <linearGradient inkscape:collect="always" id="linearGradient4239">
       <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop4241"/>
       <stop style="stop-color:#000000;stop-opacity:0;" offset="1" id="stop4243"/>
@@ -39,7 +39,7 @@
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4239" id="linearGradient4247" x1="648.52252" y1="93.499515" x2="656.40546" y2="93.499512" gradientUnits="userSpaceOnUse"/>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4239" id="linearGradient4249" x1="23.864508" y1="13.875984" x2="29.356333" y2="19.367809" gradientUnits="userSpaceOnUse"/>
   </defs>
-  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="18.55" inkscape:cx="16" inkscape:cy="15.904047" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1535" inkscape:window-height="876" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:showpageshadow="false" borderlayer="true" showguides="false" inkscape:snap-bbox="true" inkscape:snap-global="false" color="#3498db" fill="#3498db" style="">
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:zoom="18.55" inkscape:cx="16" inkscape:cy="15.904047" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1535" inkscape:window-height="876" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:showpageshadow="false" borderlayer="true" showguides="false" inkscape:snap-bbox="true" inkscape:snap-global="false" color="#1e82ff" fill="#1e82ff" style="">
     <inkscape:grid type="xygrid" id="grid4063"/>
     <sodipodi:guide position="4.2167969e-05,32.000026" orientation="32,0" id="guide4625"/>
     <sodipodi:guide position="4.2167969e-05,2.6367188e-05" orientation="0,31.999969" id="guide4627"/>
@@ -54,7 +54,7 @@
     <sodipodi:guide position="23.000042,10.000271" orientation="-14,0" id="guide4433"/>
     <sodipodi:guide position="23.000042,24.000271" orientation="0,-14.000031" id="guide4435"/>
   </sodipodi:namedview>
-  <metadata id="metadata5458" color="#3498db" fill="#3498db" style="">
+  <metadata id="metadata5458" color="#1e82ff" fill="#1e82ff" style="">
     <rdf:RDF>
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
@@ -63,7 +63,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-384.57143,-515.798)" color="#3498db" fill="#3498db" style="">
+  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-384.57143,-515.798)" color="#1e82ff" fill="#1e82ff" style="">
     <rect style="fill:url(#linearGradient3085);fill-opacity:1;stroke:none" id="rect4567" width="31.999987" height="28.000004" x="384.61563" y="517.84222"/>
     <path sodipodi:nodetypes="cccccccccccccccc" inkscape:connector-curvature="0" style="fill:url(#linearGradient3087);fill-opacity:1;stroke:none" d="m 384.61562,517.84219 0,1.4 0,26.59998 1.33333,0 30.66665,0 3e-5,-2.09998 -3e-5,-24.5 0,-1.4 -1.33334,0 -29.33331,0 z m 2.00004,2 27.99996,0 0,24 -27.99996,0 z" id="rect4778"/>
     <rect style="fill:#aa7f41;fill-opacity:1;stroke:none" id="rect4799" width="31.999949" height="0.9999665" x="384.61566" y="544.84222"/>

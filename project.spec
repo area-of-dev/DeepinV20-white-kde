@@ -23,15 +23,16 @@ Group: Application/Web
 License: GPL-2.0
 BuildArch: noarch
 
-%define AURORAE_DIR     /usr/share/aurorae/themes
-%define SCHEMES_DIR     /usr/share/color-schemes
-%define PLASMA_DIR      /usr/share/plasma/desktoptheme
-%define LAYOUT_DIR      /usr/share/plasma/layout-templates
-%define LOOKFEEL_DIR    /usr/share/plasma/look-and-feel
-%define WALLPAPER_DIR   /usr/share/wallpapers
-%define KVANTUM_DIR     /usr/share/Kvantum
+%define DIR_AURORAE     /usr/share/aurorae/themes
+%define DIR_SCHEMES     /usr/share/color-schemes
+%define DIR_PLASMA      /usr/share/plasma/desktoptheme
+%define DIR_LAYOUT      /usr/share/plasma/layout-templates
+%define DIR_LOOKFEEL    /usr/share/plasma/look-and-feel
+%define DIR_WALLPAPER   /usr/share/wallpapers
+%define DIR_KVANTUM     /usr/share/Kvantum
 %define DIR_SDDM        /usr/share/sddm/themes
 %define DIR_ICONS       /usr/share/icons
+%define DIR_THEMES       /usr/share/themes
 
 %define _unpackaged_files_terminate_build 0
 
@@ -42,26 +43,28 @@ DeepinV20-white kde is a light clean theme for KDE Plasma desktop.
 %setup -q
 
 %install
-install -d $RPM_BUILD_ROOT%{AURORAE_DIR}
-install -d $RPM_BUILD_ROOT%{SCHEMES_DIR}
-install -d $RPM_BUILD_ROOT%{PLASMA_DIR}
-install -d $RPM_BUILD_ROOT%{LAYOUT_DIR}
-install -d $RPM_BUILD_ROOT%{LOOKFEEL_DIR}
-install -d $RPM_BUILD_ROOT%{WALLPAPER_DIR}
-install -d $RPM_BUILD_ROOT%{KVANTUM_DIR}
+install -d $RPM_BUILD_ROOT%{DIR_AURORAE}
+install -d $RPM_BUILD_ROOT%{DIR_SCHEMES}
+install -d $RPM_BUILD_ROOT%{DIR_PLASMA}
+install -d $RPM_BUILD_ROOT%{DIR_LAYOUT}
+install -d $RPM_BUILD_ROOT%{DIR_LOOKFEEL}
+install -d $RPM_BUILD_ROOT%{DIR_WALLPAPER}
+install -d $RPM_BUILD_ROOT%{DIR_KVANTUM}
 install -d $RPM_BUILD_ROOT%{DIR_SDDM}
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}
+install -d $RPM_BUILD_ROOT%{DIR_THEMES}
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark/cursors
 
-cp --recursive ./aurorae/*                                  $RPM_BUILD_ROOT%{AURORAE_DIR}
-cp --recursive ./color-schemes/*.colors                     $RPM_BUILD_ROOT%{SCHEMES_DIR}
-cp --recursive ./plasma/desktoptheme/DeepinV20-*            $RPM_BUILD_ROOT%{PLASMA_DIR}
-cp --recursive ./plasma/look-and-feel/*                     $RPM_BUILD_ROOT%{LOOKFEEL_DIR}
-cp --recursive ./wallpaper/*                                $RPM_BUILD_ROOT%{WALLPAPER_DIR}
-cp --recursive ./Kvantum/*                                  $RPM_BUILD_ROOT%{KVANTUM_DIR}
+cp --recursive ./aurorae/*                                  $RPM_BUILD_ROOT%{DIR_AURORAE}
+cp --recursive ./color-schemes/*.colors                     $RPM_BUILD_ROOT%{DIR_SCHEMES}
+cp --recursive ./plasma/desktoptheme/DeepinV20-*            $RPM_BUILD_ROOT%{DIR_PLASMA}
+cp --recursive ./plasma/look-and-feel/*                     $RPM_BUILD_ROOT%{DIR_LOOKFEEL}
+cp --recursive ./wallpaper/*                                $RPM_BUILD_ROOT%{DIR_WALLPAPER}
+cp --recursive ./Kvantum/*                                  $RPM_BUILD_ROOT%{DIR_KVANTUM}
+cp --recursive ./themes/DeepinV20-*                         $RPM_BUILD_ROOT%{DIR_THEMES}
 cp --recursive ./sddm/DeepinV20-*                           $RPM_BUILD_ROOT%{DIR_SDDM}
 cp --recursive ./icons/DeepinV20-white                      $RPM_BUILD_ROOT%{DIR_ICONS}
 
@@ -73,21 +76,24 @@ find $RPM_BUILD_ROOT%{DIR_ICONS} -name ".git*"  -exec rm -rf {} \;
 
 %files 
 %defattr(644,root,root,755)
-%dir %{AURORAE_DIR}
-%dir %{SCHEMES_DIR}
-%dir %{PLASMA_DIR}
-%dir %{LAYOUT_DIR}
-%dir %{LOOKFEEL_DIR}
-%dir %{WALLPAPER_DIR}
-%dir %{KVANTUM_DIR}
+%dir %{DIR_AURORAE}
+%dir %{DIR_SCHEMES}
+%dir %{DIR_PLASMA}
+%dir %{DIR_LAYOUT}
+%dir %{DIR_LOOKFEEL}
+%dir %{DIR_WALLPAPER}
+%dir %{DIR_KVANTUM}
 %dir %{DIR_SDDM}
+%dir %{DIR_ICONS}
+%dir %{DIR_THEMES}
 
-%{AURORAE_DIR}/*
-%{SCHEMES_DIR}/*
-%{PLASMA_DIR}/*
-%{LOOKFEEL_DIR}/*
-%{WALLPAPER_DIR}/*
-%{KVANTUM_DIR}/*
+%{DIR_AURORAE}/*
+%{DIR_SCHEMES}/*
+%{DIR_PLASMA}/*
+%{DIR_LOOKFEEL}/*
+%{DIR_WALLPAPER}/*
+%{DIR_KVANTUM}/*
 %{DIR_SDDM}/*
 %{DIR_ICONS}/*
+%{DIR_THEMES}/*
 

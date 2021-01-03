@@ -80,7 +80,7 @@
 </style>
   </defs>
   <g
-     style="fill:#3498db;fill-opacity:1"
+     style="fill:#1e82ff;fill-opacity:1"
      id="22-22-bookmarks"
      transform="matrix(1.0000029,0,0,1.000001,-420.71555,-516.79125)">
     <rect
@@ -90,15 +90,15 @@
        height="22"
        width="22"
        id="rect3028"
-       style="opacity:0.01000001;fill:#3498db;fill-opacity:1;stroke:none" />
+       style="opacity:0.01000001;fill:#1e82ff;fill-opacity:1;stroke:none" />
     <path
        class="ColorScheme-Text"
        id="rect4298"
        d="m 426.71431,529.79072 0,1 0,13.99999 0,1 4.99999,-2 4.99998,2 0,-1 0,-13.99999 0,-1 -9.99997,0 m 1,1 7.99997,0 0,13.5996 -3.99998,-1.59961 -3.99999,1.59961 0,-13.5996"
-       style="fill:#3498db;fill-opacity:1;stroke:none" />
+       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
   </g>
   <g
-     style="fill:#3498db;fill-opacity:1"
+     style="fill:#1e82ff;fill-opacity:1"
      id="bookmarks"
      transform="matrix(1.0000028,0,0,1.0000009,-398.71551,-516.79118)">
     <rect
@@ -108,11 +108,11 @@
        height="32"
        width="32"
        id="rect2994"
-       style="opacity:0.01000001;fill:#3498db;fill-opacity:1;stroke:none" />
+       style="opacity:0.01000001;fill:#1e82ff;fill-opacity:1;stroke:none" />
     <path
        class="ColorScheme-Text"
        id="path2996"
        d="m 428.71434,520.79071 0,23.99998 7.99998,-3.99999 7.99998,3.99999 0,-23.99998 z m 1,1 13.99996,0 0,21.55698 -6.99998,-3.55699 -6.99998,3.55699 z"
-       style="fill:#3498db;fill-opacity:1;stroke:none" />
+       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
   </g>
 </svg>

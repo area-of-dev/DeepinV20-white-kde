@@ -46,26 +46,26 @@
      pagecolor="#ffffff" />
   <style
      style=""
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText{color:#da4453;}</style>
   <g
      id="g7"
      style=""
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      transform="translate(0 -292.76666)">
     <path
        id="path3"
        transform="matrix(.26458333 0 0 .26458333 0 292.76666)"
        class="ColorScheme-Text"
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        d="m7.0273438 5 2.0039062 2h.96875v.96875l1 .9980469v-1.9667969c.356978-.6183307 1.016502-.9994331 1.730469-1h1.269531v4h-1.269531c-.333719-.000265-.652906-.090283-.9375-.2421875l1.24414 1.2421875h.962891 1v-6h-1-1.269531c-.851739.0015874-1.662651.3651528-2.230469 1h-1.5v-1zm-6.0273438 1v1 2 1h6.9824219l-1-1h-4.9824219v-2h2.9824219l-1-1z" />
     <path
        id="path5"
        class="ColorScheme-NegativeText"
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        d="m.52916667 293.48291.1870886-.18709 2.98791133 2.98106-.1870891.19394z" />
   </g>
 </svg>

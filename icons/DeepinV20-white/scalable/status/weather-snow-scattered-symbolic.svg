@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
- <defs color="#3498db" fill="#3498db" style="">
+ <defs color="#1e82ff" fill="#1e82ff" style="">
   <linearGradient id="0">
    <stop stop-color="#abdaf9"/>
    <stop offset="1" stop-color="#e1f2ff"/>
@@ -12,8 +12,8 @@
   <linearGradient xlink:href="#0" id="3" y1="538.79797" x2="0" y2="532.79797" gradientUnits="userSpaceOnUse" gradientTransform="translate(4,0)"/>
   <linearGradient gradientTransform="translate(-4.0000235,4)" xlink:href="#0" id="4" y1="538.79797" x2="0" y2="532.79797" gradientUnits="userSpaceOnUse"/>
  </defs>
- <metadata color="#3498db" fill="#3498db" style=""/>
- <g transform="translate(-384.57143,-499.798)" color="#3498db" fill="#3498db" style="">
+ <metadata color="#1e82ff" fill="#1e82ff" style=""/>
+ <g transform="translate(-384.57143,-499.798)" color="#1e82ff" fill="#1e82ff" style="">
   <path d="m 408.55537,507.77391 a 10.010037,10.010037 0 0 1 9.84972,8.23092 8.0080333,8.0080333 0 0 1 6.16634,7.78514 8.0080333,8.0080333 0 0 1 -8.00803,8.00803 l -18.01807,0 a 6.0060179,6.0060179 0 0 1 -6.00602,-6.00602 6.0060179,6.0060179 0 0 1 6.00602,-6.00603 6.0060179,6.0060179 0 0 1 0.21506,0.0121 10.010037,10.010037 0 0 1 -0.21506,-2.01373 10.010037,10.010037 0 0 1 10.01004,-10.01004 z" fill="url(#2)" color="#f2f2f2"/>
   <g fill="url(#3)">
    <path d="m 400.57144,532.79797 1.11802,1.06354 1.48006,0.43646 -0.36204,1.5 0.36204,1.5 -1.48006,0.43647 -1.11802,1.06353 -1.11802,-1.06353 -1.48005,-0.43647 0.36203,-1.5 -0.36203,-1.5 1.48005,-0.43646 z"/>

@@ -52,8 +52,8 @@
   <g
      id="list-add">
     <path
-       style="fill:#3498db;fill-opacity:1"
-       fill="#3498db"
+       style="fill:#1e82ff;fill-opacity:1"
+       fill="#1e82ff"
        class="ColorScheme-Text"
        d="m10 3v7h-7v2.1h7v6.9h2v-6.9h7v-2.1h-7v-7z"
        id="rect2991" />
@@ -70,8 +70,8 @@
        d="m0 0h22v22h-22z"
        id="rect3783" />
     <path
-       style="fill:#3498db;fill-opacity:1"
-       fill="#3498db"
+       style="fill:#1e82ff;fill-opacity:1"
+       fill="#1e82ff"
        class="ColorScheme-Text"
        d="m3 10h16v2h-16z"
        id="rect887" />
@@ -80,8 +80,8 @@
      transform="matrix(.72727273 0 0 .72727273 -16 6)"
      id="16-16-list-add">
     <path
-       style="fill:#3498db;fill-opacity:1"
-       fill="#3498db"
+       style="fill:#1e82ff;fill-opacity:1"
+       fill="#1e82ff"
        class="ColorScheme-Text"
        d="m9.625 2.75v6.875h-6.875v2.75h6.875v6.875h2.75v-6.875h6.875v-2.75h-6.875v-6.875z"
        id="rect2991-3" />
@@ -98,8 +98,8 @@
        d="m0 0h22v22h-22z"
        id="rect3783-9" />
     <path
-       style="fill:#3498db;fill-opacity:1"
-       fill="#3498db"
+       style="fill:#1e82ff;fill-opacity:1"
+       fill="#1e82ff"
        class="ColorScheme-Text"
        d="m2.75 9.625h16.5v2.75h-16.5z"
        id="rect889" />

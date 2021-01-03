@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051" color="#3498db" fill="#3498db" style="">
+  <defs id="defs3051" color="#1e82ff" fill="#1e82ff" style="">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
         color:#232629;
       }
       </style>
   </defs>
- <path style="" d="M3 11H7V15H3z" class="ColorScheme-Text" color="#3498db" fill="#3498db"/>
- <path style="" d="M17 11l0-2-4 4 4 4 0-2 2 0 0-4zM6 10H7V11H6z" class="ColorScheme-Text" color="#3498db" fill="#3498db"/>
- <path style="" d="M 8.707,10.5 8,11.207 9.793,13 8,14.793 8.707,15.5 10.5,13.707 12.293,15.5 13,14.793 11.207,13 13,11.207 12.293,10.5 10.5,12.293 8.707,10.5 Z" color="#3498db" fill="#3498db"/>
+ <path style="" d="M3 11H7V15H3z" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
+ <path style="" d="M17 11l0-2-4 4 4 4 0-2 2 0 0-4zM6 10H7V11H6z" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
+ <path style="" d="M 8.707,10.5 8,11.207 9.793,13 8,14.793 8.707,15.5 10.5,13.707 12.293,15.5 13,14.793 11.207,13 13,11.207 12.293,10.5 10.5,12.293 8.707,10.5 Z" color="#1e82ff" fill="#1e82ff"/>
 </svg>

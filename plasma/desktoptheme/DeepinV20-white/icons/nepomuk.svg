@@ -57,7 +57,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#3498db;
+        color:#1e82ff;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -69,7 +69,7 @@
         color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#3498db;
+        color:#1e82ff;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -81,14 +81,14 @@
         color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#3498db;
+        color:#1e82ff;
       }
       </style>
   </defs>
   <g
      id="22-22-nepomuk">
     <path
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        d="m 9.0000001,13 c -3.3240047,0 -6,2.675995 -6,6 0,3.324005 2.6759953,6 6,6 C 10.481206,25 11.830584,24.465318 12.875,23.582031 L 18.292969,29 19,28.292969 13.582032,22.875 C 14.465318,21.830584 15,20.481205 15,19 15,15.675995 12.324005,13 9.0000001,13 Z m 0,1 C 11.770005,14 14,16.229995 14,19 c 0,2.770005 -2.229995,5 -4.9999999,5 -2.7700048,0 -5,-2.229995 -5,-5 0,-2.770005 2.2299952,-5 5,-5 z"
        class="ColorScheme-Text"
        id="path7" />
@@ -100,7 +100,7 @@
   <g
      id="nepomuk">
     <path
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        d="m 35,4 a 9,9 0 0 0 -9,9 9,9 0 0 0 9,9 9,9 0 0 0 5.994141,-2.298828 L 49.292969,28 50,27.292969 41.699219,18.992187 A 9,9 0 0 0 44,13 9,9 0 0 0 35,4 Z m 0,1 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"
        class="ColorScheme-Text"
        id="path12" />

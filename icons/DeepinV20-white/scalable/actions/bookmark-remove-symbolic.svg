@@ -21,8 +21,8 @@
    focusable="false"
    aria-hidden="true">
   <metadata
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      id="metadata10">
     <rdf:RDF>
       <cc:Work
@@ -35,13 +35,13 @@
     </rdf:RDF>
   </metadata>
   <defs
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      id="defs8" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      inkscape:current-layer="svg4"
      inkscape:window-maximized="0"
      inkscape:window-y="310"
@@ -83,11 +83,11 @@
        class="ColorScheme-Text"
        id="path2996"
        d="m 428.71434,520.79071 v 23.99998 l 7.99998,-3.99999 7.99998,3.99999 v -23.99998 z m 1,1 h 13.99996 v 21.55698 l -6.99998,-3.55699 -6.99998,3.55699 z"
-       style="fill:#3498db;fill-opacity:1;stroke:none" />
+       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
   </g>
   <g
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      id="g28"
      transform="matrix(31.862454,0,0,31.862454,33.050404,43.220215)">
     <path
@@ -95,6 +95,6 @@
        id="path6"
        d="M 9.71,9.03 9.003,9.737 10.796,11.53 9.003,13.323 9.71,14.03 11.503,12.237 13.296,14.03 14.003,13.323 12.21,11.53 14.003,9.737 13.296,9.03 11.503,10.823 Z"
        class="ColorScheme-NegativeText"
-       style="color:#da4453;fill:#3498db;fill-opacity:1;stroke:none" />
+       style="color:#da4453;fill:#1e82ff;fill-opacity:1;stroke:none" />
   </g>
 </svg>

@@ -39,7 +39,7 @@
     <path
        id="path9"
        d="M 3 13 L 3 16 A 13 13 0 0 1 16 29 L 19 29 A 16 16 0 0 0 3 13 z M 3 19 L 3 22 A 7 7 0 0 1 10 29 L 13 29 A 10 10 0 0 0 3 19 z M 5 25 A 2 2 0 0 0 3 27 A 2 2 0 0 0 5 29 A 2 2 0 0 0 7 27 A 2 2 0 0 0 5 25 z "
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -47,7 +47,7 @@
     <path
        id="path12"
        d="M 26 4 L 26 8 A 20 20 0 0 1 46 28 L 50 28 A 24 24 0 0 0 26 4 z M 26 12 L 26 16 A 12 12 0 0 1 38 28 L 42 28 A 16 16 0 0 0 26 12 z M 29.5 21 A 3.5 3.5 0 0 0 26 24.5 A 3.5 3.5 0 0 0 29.5 28 A 3.5 3.5 0 0 0 33 24.5 A 3.5 3.5 0 0 0 29.5 21 z "
-       style="fill:#3498db;fill-opacity:1;stroke:none"
+       style="fill:#1e82ff;fill-opacity:1;stroke:none"
        class="ColorScheme-Text" />
     <path
        id="path14"

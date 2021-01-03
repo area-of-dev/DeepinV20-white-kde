@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051" color="#3498db" fill="#3498db" style="">
+  <defs id="defs3051" color="#1e82ff" fill="#1e82ff" style="">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
         color:#232629;
@@ -9,6 +9,6 @@
       }
       </style>
   </defs>
- <path style="" d="m2 2v12h12v-12h-12m1 2h10v9h-10v-9" class="ColorScheme-Text" color="#3498db" fill="#3498db"/>
- <path d="m6.2 6l-.707.707 1.793 1.793-1.793 1.793.707.707 1.793-1.793 1.793 1.793.707-.707-1.793-1.793 1.793-1.793-.707-.707-1.793 1.793" style="" class="ColorScheme-NegativeText" color="#3498db" fill="#3498db"/>
+ <path style="" d="m2 2v12h12v-12h-12m1 2h10v9h-10v-9" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
+ <path d="m6.2 6l-.707.707 1.793 1.793-1.793 1.793.707.707 1.793-1.793 1.793 1.793.707-.707-1.793-1.793 1.793-1.793-.707-.707-1.793 1.793" style="" class="ColorScheme-NegativeText" color="#1e82ff" fill="#1e82ff"/>
 </svg>

@@ -46,8 +46,8 @@
      pagecolor="#ffffff" />
   <defs
      style=""
-     fill="#3498db"
-     color="#3498db"
+     fill="#1e82ff"
+     color="#1e82ff"
      id="defs3051">
     <style
        id="current-color-scheme"
@@ -73,6 +73,6 @@
        transform="matrix(0.91666548,0,0,0.91666548,210.50004,1033.6955)"
        d="m 40,4 -4e-6,18.999991 h -1 L 39,24 c 4e-6,1.104569 0.895431,2 2,2 h 26 c 1.104569,0 2,-0.895431 2,-2 v -1 l -1.000004,-9e-6 L 68,4 Z m 1,1 H 67 V 22 H 41 Z m -1,19 h 28 c 0,0.552285 -0.447715,1 -1,1 H 41 c -0.552285,0 -1,-0.447715 -1,-1 z"
        class="ColorScheme-Text"
-       style="fill:#3498db;fill-opacity:1;stroke:none" />
+       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
   </g>
 </svg>

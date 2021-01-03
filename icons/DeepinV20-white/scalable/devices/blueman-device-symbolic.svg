@@ -61,7 +61,7 @@
        inkscape:connector-curvature="0"
        id="rect4163-9"
        d="m 76.998047,3 v 0.00195 7.039063 l -3.292969,-3.2929692 -0.002,0.00195 C 73.347329,6.39404 72.707031,5.7539062 72.707031,5.7539062 L 72,6.4609375 76.544922,11.001953 72,15.542969 72.707031,16.25 c 0,0 0.640351,-0.640094 0.996094,-0.996094 h 0.002 L 77,11.960938 V 19 h 1 L 82,15 78,11 82,7 78,3 Z M 78,4.4160156 80.585938,7.0019531 78,9.5878906 Z m 0,8.0000004 2.585938,2.585937 L 78,17.587891 Z"
-       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#3498db;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#1e82ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        class="ColorScheme-Text" />
   </g>
 </svg>

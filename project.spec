@@ -32,7 +32,7 @@ BuildArch: noarch
 %define DIR_KVANTUM     /usr/share/Kvantum
 %define DIR_SDDM        /usr/share/sddm/themes
 %define DIR_ICONS       /usr/share/icons
-%define DIR_THEMES       /usr/share/themes
+%define DIR_THEMES      /usr/share/themes
 
 %define _unpackaged_files_terminate_build 0
 
@@ -58,18 +58,18 @@ install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark/cursors
 
-cp --recursive ./aurorae/*                                  $RPM_BUILD_ROOT%{DIR_AURORAE}
-cp --recursive ./color-schemes/*.colors                     $RPM_BUILD_ROOT%{DIR_SCHEMES}
-cp --recursive ./plasma/desktoptheme/DeepinV20-*            $RPM_BUILD_ROOT%{DIR_PLASMA}
-cp --recursive ./plasma/look-and-feel/*                     $RPM_BUILD_ROOT%{DIR_LOOKFEEL}
-cp --recursive ./wallpaper/*                                $RPM_BUILD_ROOT%{DIR_WALLPAPER}
-cp --recursive ./Kvantum/*                                  $RPM_BUILD_ROOT%{DIR_KVANTUM}
-cp --recursive ./themes/DeepinV20-*                         $RPM_BUILD_ROOT%{DIR_THEMES}
-cp --recursive ./sddm/DeepinV20-*                           $RPM_BUILD_ROOT%{DIR_SDDM}
-cp --recursive ./icons/DeepinV20-white                      $RPM_BUILD_ROOT%{DIR_ICONS}
+cp --recursive ./src/aurorae/*                                  $RPM_BUILD_ROOT%{DIR_AURORAE}
+cp --recursive ./src/color-schemes/*.colors                     $RPM_BUILD_ROOT%{DIR_SCHEMES}
+cp --recursive ./src/plasma/desktoptheme/DeepinV20-*            $RPM_BUILD_ROOT%{DIR_PLASMA}
+cp --recursive ./src/plasma/look-and-feel/*                     $RPM_BUILD_ROOT%{DIR_LOOKFEEL}
+cp --recursive ./src/wallpaper/*                                $RPM_BUILD_ROOT%{DIR_WALLPAPER}
+cp --recursive ./src/Kvantum/*                                  $RPM_BUILD_ROOT%{DIR_KVANTUM}
+cp --recursive ./src/themes/DeepinV20-*                         $RPM_BUILD_ROOT%{DIR_THEMES}
+cp --recursive ./src/sddm/DeepinV20-*                           $RPM_BUILD_ROOT%{DIR_SDDM}
+cp --recursive ./src/icons/DeepinV20-white                      $RPM_BUILD_ROOT%{DIR_ICONS}
 
-cp --recursive ./cursor/DeepinV20-white/dist/cursors/*      $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
-cp --recursive ./cursor/DeepinV20-dark/dist/*               $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
+cp --recursive ./src/cursor/DeepinV20-white/dist/cursors/*      $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
+cp --recursive ./src/cursor/DeepinV20-dark/dist/*               $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
 
 find $RPM_BUILD_ROOT%{DIR_ICONS} -name "*.py"   -exec rm -rf {} \;
 find $RPM_BUILD_ROOT%{DIR_ICONS} -name ".git*"  -exec rm -rf {} \;

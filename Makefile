@@ -55,29 +55,29 @@ docker_run:
 			"cd $(PWD) && $(RUN_ARGS)"
 
 icons:
-	rm -rf $(PWD)/plasma/desktoptheme/DeepinV20-white/icons/*
-	rm -rf $(PWD)/icons/DeepinV20-white/scalable
-	rm -rf $(PWD)/icons/DeepinV20-white/8x8
-	rm -rf $(PWD)/icons/DeepinV20-white/12x12
-	rm -rf $(PWD)/icons/DeepinV20-white/16x16
-	rm -rf $(PWD)/icons/DeepinV20-white/20x20
-	rm -rf $(PWD)/icons/DeepinV20-white/24x24
-	rm -rf $(PWD)/icons/DeepinV20-white/32x32
-	rm -rf $(PWD)/icons/DeepinV20-white/48x48
-	rm -rf $(PWD)/icons/DeepinV20-white/64x64/
-	rm -rf $(PWD)/icons/DeepinV20-white/96x96
-	rm -rf $(PWD)/icons/DeepinV20-white/128x128
-	rm -rf $(PWD)/icons/DeepinV20-white/256x256
-	rm -rf $(PWD)/icons/DeepinV20-white/512x512
-	mkdir --parents $(PWD)/icons/DeepinV20-white/scalable
+	rm -rf $(PWD)/src/plasma/desktoptheme/DeepinV20-white/icons/*
+	rm -rf $(PWD)/src/icons/DeepinV20-white/scalable
+	rm -rf $(PWD)/src/icons/DeepinV20-white/8x8
+	rm -rf $(PWD)/src/icons/DeepinV20-white/12x12
+	rm -rf $(PWD)/src/icons/DeepinV20-white/16x16
+	rm -rf $(PWD)/src/icons/DeepinV20-white/20x20
+	rm -rf $(PWD)/src/icons/DeepinV20-white/24x24
+	rm -rf $(PWD)/src/icons/DeepinV20-white/32x32
+	rm -rf $(PWD)/src/icons/DeepinV20-white/48x48
+	rm -rf $(PWD)/src/icons/DeepinV20-white/64x64/
+	rm -rf $(PWD)/src/icons/DeepinV20-white/96x96
+	rm -rf $(PWD)/src/icons/DeepinV20-white/128x128
+	rm -rf $(PWD)/src/icons/DeepinV20-white/256x256
+	rm -rf $(PWD)/src/icons/DeepinV20-white/512x512
+	mkdir --parents $(PWD)/src/icons/DeepinV20-white/scalable
 
-	python3 $(PWD)/scripts/iconbuilder.py --color=#1e82ff \
+	python3 $(PWD)/src/scripts/iconbuilder.py --color=#1e82ff \
 					--destination=$(PWD)/icons/DeepinV20-white/scalable \
-					--source=$(PWD)/src/icons/scalable
+					--source=$(PWD)/src/templates/icons/scalable
 
-	python3 $(PWD)/scripts/iconbuilder.py --color=#1e82ff \
-					--destination=$(PWD)/plasma/desktoptheme/DeepinV20-white/icons \
-					--source=$(PWD)/src/plasma/icons \
+	python3 $(PWD)/src/scripts/iconbuilder.py --color=#1e82ff \
+					--destination=$(PWD)/src/plasma/desktoptheme/DeepinV20-white/icons \
+					--source=$(PWD)/src/templates/plasma/icons \
 					--skip-symbolic=True 
 
 

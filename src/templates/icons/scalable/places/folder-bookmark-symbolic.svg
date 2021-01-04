@@ -7,22 +7,20 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
-   height="512"
-   width="512"
-   sodipodi:docname="bookmark-add-folder-symbolic.svg"
-   id="svg4"
-   version="1.1"
-   class="svg-inline--fa fa-bookmark fa-w-12 fa-9x"
-   viewBox="0 0 512 512"
-   role="img"
-   data-icon="bookmark"
-   data-prefix="fas"
+   aria-hidden="true"
    focusable="false"
-   aria-hidden="true">
+   data-prefix="fas"
+   data-icon="bookmark"
+   role="img"
+   viewBox="0 0 512 512"
+   class="svg-inline--fa fa-bookmark fa-w-12 fa-9x"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="folder-bookmark-symbolic.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)">
   <metadata
-     fill="#53b7ec"
-     color="#53b7ec"
      id="metadata10">
     <rdf:RDF>
       <cc:Work
@@ -35,48 +33,30 @@
     </rdf:RDF>
   </metadata>
   <defs
-     fill="#53b7ec"
-     color="#53b7ec"
      id="defs8" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     fill="#53b7ec"
-     color="#53b7ec"
-     inkscape:current-layer="svg4"
-     inkscape:window-maximized="0"
-     inkscape:window-y="307"
-     inkscape:window-x="433"
-     inkscape:cy="147.36056"
-     inkscape:cx="113.90038"
-     inkscape:zoom="0.921875"
-     showgrid="false"
-     id="namedview6"
-     inkscape:window-height="1164"
-     inkscape:window-width="1166"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
-  <g
-     id="bookmarks"
-     transform="matrix(15.942264,0,0,15.942235,-6706.5403,-8238.3086)">
-    <rect
-       transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)"
-       y="-7.9999948"
-       x="-7.1557004e-08"
-       height="32"
-       width="32"
-       id="rect2994"
-       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Text"
-       id="path2996"
-       d="m 428.71434,520.79071 v 23.99998 l 7.99998,-3.99999 7.99998,3.99999 v -23.99998 z m 1,1 h 13.99996 v 21.55698 l -6.99998,-3.55699 -6.99998,3.55699 z"
-       style="fill:#53b7ec;fill-opacity:1;stroke:none" />
-  </g>
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="1.3964844"
+     inkscape:cx="192"
+     inkscape:cy="256"
+     inkscape:current-layer="svg4" />
+  <path
+     style="stroke-width:0.868273"
+     fill="#53b7ec"
+     d="M 89.291521,478.27797 V 75.399147 c 0,-23.017926 18.659189,-41.67712 41.677119,-41.67712 h 250.06272 c 23.01793,0 41.67712,18.659194 41.67712,41.67712 V 478.27797 L 256,381.03136 Z"
+     class=""
+     id="path2"
+     inkscape:connector-curvature="0" />
 </svg>

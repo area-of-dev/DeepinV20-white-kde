@@ -49,7 +49,7 @@
      pagecolor="#ffffff" />
   <path
      d="M 3.197,0 A 2.217,2.217 0 0 0 1,2.201 V 13.8 C 1,14.999 1.995,16 3.197,16 h 9.607 A 2.215,2.215 0 0 0 15,13.799 V 2.2 C 15,1.001 14.006,0 12.804,0 Z m 0,2 h 9.607 C 12.928,2 13,2.07 13,2.201 V 13.8 c 0,0.13 -0.072,0.201 -0.196,0.201 H 3.197 C 3.073,14 3,13.93 3,13.799 V 2.2 C 3,2.07 3.073,1.999 3.197,1.999 Z"
-     style="color:#1e82ff;line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;opacity:1;isolation:auto;mix-blend-mode:normal;fill:#1e82ff;marker:none;stop-opacity:1"
+     style="color:#787878;line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;opacity:1;isolation:auto;mix-blend-mode:normal;fill:#787878;marker:none;stop-opacity:1"
      font-weight="400"
      font-family="sans-serif"
      white-space="normal"

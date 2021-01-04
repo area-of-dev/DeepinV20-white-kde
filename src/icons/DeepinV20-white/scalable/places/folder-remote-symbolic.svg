@@ -15,8 +15,8 @@
    width="16">
   <metadata
      style=""
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      id="metadata18">
     <rdf:RDF>
       <cc:Work
@@ -29,16 +29,16 @@
   </metadata>
   <defs
      style=""
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      id="defs16" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:guide-bbox="true"
      showguides="true"
      style=""
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      inkscape:current-layer="svg12"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
@@ -70,8 +70,8 @@
        position="15.000722,4.987151" />
   </sodipodi:namedview>
   <path
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      d="m 7,11 h 2 v 4 H 7 Z"
      id="path8"
      inkscape:connector-curvature="0"
@@ -83,13 +83,13 @@
        inkscape:connector-curvature="0"
        id="path6"
        d="m 5,6 h 9 v 5 H 5 Z m 8,-3 h 1 v 1 h -1 z m 1,2 h 1 V 6 H 14 Z M 4,5 H 5 V 6 H 4 Z m -2.5,9 h 13 c 0.277,0 0.5,0.223 0.5,0.5 v 1 C 15,15.777 14.777,16 14.5,16 H 1.5 A 0.499,0.499 0 0 1 1,15.5 v -1 C 1,14.223 1.223,14 1.5,14 Z"
-       color="#1e82ff"
-       fill="#1e82ff" />
+       color="#787878"
+       fill="#787878" />
     <path
        inkscape:connector-curvature="0"
        d="M 13.662532,2.4158751 H 8.4048194 L 6.6522486,0.6633033 H 2.2708201 c -0.7259481,0 -1.31442808,0.5884805 -1.31442808,1.3144286 V 9.864302 c 0,0.725948 0.58847998,1.314429 1.31442808,1.314429 H 13.662532 c 0.725949,0 1.314429,-0.588481 1.314429,-1.314429 V 3.7303025 c 0,-0.725947 -0.58848,-1.3144274 -1.314429,-1.3144274 z"
        class=""
-       style="color:#1e82ff;fill:#1e82ff;stroke-width:0.0273839"
+       style="color:#787878;fill:#787878;stroke-width:0.0273839"
        id="path2" />
   </g>
 </svg>

@@ -74,11 +74,11 @@ icons:
 	rm -rf $(PWD)/src/icons/DeepinV20-white/512x512
 	mkdir --parents $(PWD)/src/icons/DeepinV20-white/scalable
 
-	python3 $(PWD)/src/scripts/iconbuilder.py --color=#1e82ff \
-					--destination=$(PWD)/icons/DeepinV20-white/scalable \
+	python3 $(PWD)/scripts/iconbuilder.py --color=#787878 \
+					--destination=$(PWD)/src/icons/DeepinV20-white/scalable \
 					--source=$(PWD)/src/templates/icons/scalable
 
-	python3 $(PWD)/src/scripts/iconbuilder.py --color=#1e82ff \
+	python3 $(PWD)/scripts/iconbuilder.py --color=#787878 \
 					--destination=$(PWD)/src/plasma/desktoptheme/DeepinV20-white/icons \
 					--source=$(PWD)/src/templates/plasma/icons \
 					--skip-symbolic=True 

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
-    <style type="text/css" id="current-color-scheme" color="#1e82ff" fill="#1e82ff" style="">
+    <style type="text/css" id="current-color-scheme" color="#787878" fill="#787878" style="">
         .ColorScheme-Text {
             color:#232629;
         }
     </style>
-    <path fill="#1e82ff" class="ColorScheme-Text" d="M5 3v2H2v2h12V5h-3V3zm1 1h4v1H6zM2 8v5h12V8h-4v2H6V8zm5 0v1h2V8z" color="#1e82ff" style=""/>
+    <path fill="#787878" class="ColorScheme-Text" d="M5 3v2H2v2h12V5h-3V3zm1 1h4v1H6zM2 8v5h12V8h-4v2H6V8zm5 0v1h2V8z" color="#787878" style=""/>
 </svg>

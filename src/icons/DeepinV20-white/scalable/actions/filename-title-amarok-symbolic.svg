@@ -42,8 +42,8 @@
      pagecolor="#ffffff" />
   <defs
      style=""
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      id="defs3051">
     <style
        id="current-color-scheme"
@@ -52,25 +52,25 @@
         color:#232629;
       }
       .ColorScheme-Highlight {
-        color:#1e82ff;
+        color:#787878;
       }
       </style>
   </defs>
   <g
      id="g8"
      style=""
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      transform="translate(-421.71-531.79)">
     <path
        id="path4"
        class="ColorScheme-Text"
        d="m424.71 545.79v-12h10v9l-3 3zm1-1h5v-3h3v-7h-8z"
-       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
+       style="fill:#787878;fill-opacity:1;stroke:none" />
     <path
        id="path6"
        class="ColorScheme-Highlight"
        d="m426.71 535.79h6v2h-6z"
-       style="fill:#1e82ff;fill-opacity:1;stroke:none" />
+       style="fill:#787878;fill-opacity:1;stroke:none" />
   </g>
 </svg>

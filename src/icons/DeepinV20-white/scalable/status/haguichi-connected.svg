@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051" color="#1e82ff" fill="#1e82ff" style="">
+  <defs id="defs3051" color="#787878" fill="#787878" style="">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
         color:#232629;
       }
     </style>
   </defs>
-  <path d="m 11.23857,18.79071 5.47572,0 L 9.6681,11.29705 6.35954,13.5882 Z" style="" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
-  <path d="m 11.23857,2.79071 5.47572,0 L 6.36901,13.598 3.71429,10.79071 Z" style="" class="ColorScheme-Text" color="#1e82ff" fill="#1e82ff"/>
+  <path d="m 11.23857,18.79071 5.47572,0 L 9.6681,11.29705 6.35954,13.5882 Z" style="" class="ColorScheme-Text" color="#787878" fill="#787878"/>
+  <path d="m 11.23857,2.79071 5.47572,0 L 6.36901,13.598 3.71429,10.79071 Z" style="" class="ColorScheme-Text" color="#787878" fill="#787878"/>
 </svg>

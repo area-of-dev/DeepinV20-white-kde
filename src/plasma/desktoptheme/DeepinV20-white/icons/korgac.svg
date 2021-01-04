@@ -38,7 +38,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#1e82ff;
+        color:#787878;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -50,7 +50,7 @@
         color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#1e82ff;
+        color:#787878;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -62,7 +62,7 @@
         color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#1e82ff;
+        color:#787878;
       }
       </style>
   </defs>
@@ -135,7 +135,7 @@
     <path
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#1e82ff;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#787878;fill-opacity:1;stroke:none"
        d="m 11,3 c -4.4319982,0 -8,3.5680018 -8,8 0,4.431998 3.5680018,8 8,8 4.431998,0 8,-3.568002 8,-8 0,-4.4319982 -3.568002,-8 -8,-8 z m 0,1 c 3.877999,0 7,3.1220013 7,7 0,3.877999 -3.122001,7 -7,7 C 7.1220013,18 4,14.877999 4,11 4,7.1220013 7.1220013,4 11,4 Z m -1,1 0,7 1,0 5,0 0,-1 -5,0 0,-6 -1,0 z"
        id="rect4131" />
     <rect

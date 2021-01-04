@@ -19,8 +19,8 @@
    focusable="false"
    aria-hidden="true">
   <metadata
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      id="metadata10">
     <rdf:RDF>
       <cc:Work
@@ -32,13 +32,13 @@
     </rdf:RDF>
   </metadata>
   <defs
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      id="defs8" />
   <sodipodi:namedview
      inkscape:document-rotation="0"
-     fill="#1e82ff"
-     color="#1e82ff"
+     fill="#787878"
+     color="#787878"
      inkscape:current-layer="svg4"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
@@ -63,8 +63,8 @@
      id="view-refresh">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#1e82ff;fill-opacity:1"
-       fill="#1e82ff"
+       style="fill:#787878;fill-opacity:1"
+       fill="#787878"
        d="M 38,4 A 12,12 0 0 0 31.916016,5.671875 L 37.293,11.05 38,10.34 33.596,5.936 A 11,11 0 0 1 38,5 11,11 0 0 1 49,16 11,11 0 0 1 47.595703,21.351562 L 48.328,22.08 A 12,12 0 0 0 50,16 12,12 0 0 0 38,4 M 27.671875,9.916016 A 12,12 0 0 0 26,16 12,12 0 0 0 38,28 12,12 0 0 0 44.08398,26.328125 L 38.707,20.949 38,21.656 42.406,26.06 A 11,11 0 0 1 38,27 11,11 0 0 1 27,16 11,11 0 0 1 28.404297,10.648438 Z"
        id="path12" />
     <path

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32">
-    <style type="text/css" id="current-color-scheme" color="#1e82ff" fill="#1e82ff" style="">
+    <style type="text/css" id="current-color-scheme" color="#787878" fill="#787878" style="">
         .ColorScheme-NegativeText {
             color:#da4453;
         }
     </style>
-    <path d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z" class="ColorScheme-NegativeText" fill="#1e82ff" color="#1e82ff" style=""/>
+    <path d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z" class="ColorScheme-NegativeText" fill="#787878" color="#787878" style=""/>
 </svg>

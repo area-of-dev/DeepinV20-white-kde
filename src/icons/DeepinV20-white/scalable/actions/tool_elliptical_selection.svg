@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16">
-    <defs color="#1e82ff" fill="#1e82ff" style="">
+    <defs color="#787878" fill="#787878" style="">
         <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
         color:#232629;
       }</style>
     </defs>
-    <ellipse cx="7.9878635" cy="8.0085039" rx="5.5101886" ry="4.478539" fill="#1e82ff" stroke="#1e82ff" stroke-dasharray="2,2" class="ColorScheme-Text" color="#1e82ff" style=""/>
+    <ellipse cx="7.9878635" cy="8.0085039" rx="5.5101886" ry="4.478539" fill="#787878" stroke="#787878" stroke-dasharray="2,2" class="ColorScheme-Text" color="#787878" style=""/>
 </svg>

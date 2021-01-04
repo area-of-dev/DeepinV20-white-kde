@@ -10,7 +10,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Highlight {
-        color:#1e82ff;
+        color:#787878;
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -22,7 +22,7 @@
         color:#93cee9;
       }
       .ColorScheme-ViewFocus{
-        color:#1e82ff;
+        color:#787878;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
@@ -34,7 +34,7 @@
         color:#93cee9;
       }
       .ColorScheme-ButtonFocus{
-        color:#1e82ff;
+        color:#787878;
       }
       </style>
   </defs>
@@ -60,7 +60,7 @@
   </metadata>
   <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="translate(-326,-534.3622)">
     <g id="konversation">
-      <path sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" inkscape:connector-curvature="0" id="rect3353" d="m 344,538.3622 -12,3.41797 0,1.04297 0,4.53906 0,0.58203 1,0.28516 0,2.13281 0,0.30078 6,1.69922 0,-1 0,-1.42383 5,1.42383 0,-1.04297 0,-10.91406 z m -1,1.32813 0,10.34375 -10,-2.84766 0,-4.64844 z m -12,2.375 -1,0.28515 0,0.0117 0,1 0,3 0,1 0,0.0117 1,0.28516 0,-0.29688 0,-0.74609 0,-3.50782 0,-0.74609 z m 3,6.44921 4,1.13868 0,1.42578 -4,-1.13282 z" style="opacity:1;fill:#1e82ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501" class="ColorScheme-Text"/>
+      <path sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" inkscape:connector-curvature="0" id="rect3353" d="m 344,538.3622 -12,3.41797 0,1.04297 0,4.53906 0,0.58203 1,0.28516 0,2.13281 0,0.30078 6,1.69922 0,-1 0,-1.42383 5,1.42383 0,-1.04297 0,-10.91406 z m -1,1.32813 0,10.34375 -10,-2.84766 0,-4.64844 z m -12,2.375 -1,0.28515 0,0.0117 0,1 0,3 0,1 0,0.0117 1,0.28516 0,-0.29688 0,-0.74609 0,-3.50782 0,-0.74609 z m 3,6.44921 4,1.13868 0,1.42578 -4,-1.13282 z" style="opacity:1;fill:#787878;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501" class="ColorScheme-Text"/>
       <rect y="534.36218" x="326" height="22" width="22" id="rect4170" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
     </g>
   </g>

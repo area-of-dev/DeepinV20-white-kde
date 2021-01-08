@@ -7,11 +7,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   height="512"
+   width="512"
    sodipodi:docname="computer-laptop-symbolic.svg"
-   id="svg6"
+   id="svg4"
    version="1.1"
-   viewBox="0 0 16 16">
+   class="svg-inline--fa fa-laptop fa-w-20 fa-9x"
+   viewBox="0 0 512 512"
+   role="img"
+   data-icon="laptop"
+   data-prefix="fas"
+   focusable="false"
+   aria-hidden="true">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,59 +28,34 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs8" />
   <sodipodi:namedview
-     inkscape:current-layer="svg6"
-     inkscape:window-maximized="0"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="7.4104284"
-     inkscape:cx="3.8149594"
-     inkscape:zoom="60.8125"
+     inkscape:current-layer="svg4"
+     inkscape:cy="256"
+     inkscape:cx="320"
+     inkscape:zoom="1.3859375"
      showgrid="false"
-     id="namedview8"
-     inkscape:window-height="1872"
-     inkscape:window-width="1784"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     inkscape:document-rotation="0"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <defs
-     style=""
-     fill="#787878"
-     color="#787878"
-     id="defs3051">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#232629;
-      }
-      </style>
-  </defs>
-  <g
-     transform="matrix(0.54604907,0,0,0.54604907,-133.96262,-564.45664)"
-     id="computer-laptop">
-    <rect
-       style="opacity:0.01;fill:#31363b;fill-opacity:0.00392157;stroke:none"
-       id="rect3026"
-       width="29.333338"
-       height="29.333296"
-       x="245.33333"
-       y="1033.6956" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3028"
-       transform="matrix(0.91666548,0,0,0.91666548,210.50004,1033.6955)"
-       d="m 40,4 -4e-6,18.999991 h -1 L 39,24 c 4e-6,1.104569 0.895431,2 2,2 h 26 c 1.104569,0 2,-0.895431 2,-2 v -1 l -1.000004,-9e-6 L 68,4 Z m 1,1 H 67 V 22 H 41 Z m -1,19 h 28 c 0,0.552285 -0.447715,1 -1,1 H 41 c -0.552285,0 -1,-0.447715 -1,-1 z"
-       class="ColorScheme-Text"
-       style="fill:#787878;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="stroke-width:0.671875"
+     inkscape:connector-curvature="0"
+     id="path2"
+     class=""
+     d="M 460.25,363.5 H 297.34719 C 296.85,376.80984 287.46391,385 275.35,385 H 234.5 c -12.55734,0 -22.18531,-11.73766 -22.01734,-21.5 H 51.75 C 45.8375,363.5 41,368.3375 41,374.25 V 385 c 0,23.65 19.35,43 43,43 h 344 c 23.65,0 43,-19.35 43,-43 v -10.75 c 0,-5.9125 -4.8375,-10.75 -10.75,-10.75 z M 428,116.25 C 428,98.5125 413.4875,84 395.75,84 H 116.25 C 98.5125,84 84,98.5125 84,116.25 V 342 H 428 Z M 385,299 H 127 V 127 h 258 z"
+     fill="#787878" />
 </svg>

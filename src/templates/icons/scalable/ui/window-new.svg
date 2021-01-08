@@ -1,6 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g fill="#53b7ec" color="#53b7ec" style="">
-        <path d="M2.994 1.008C1.994 1.008.988 2 .988 3v12.02h7.006v-2H2.988V5H13v3h2V3c0-1-1.006-1.992-2.006-1.992z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;marker:none" color="#000" font-weight="400" font-family="sans-serif" overflow="visible"/>
-        <path d="M12 10v2h-2v2h2v2h2v-2h2v-2h-2v-2z"/>
-    </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   height="512"
+   width="512"
+   sodipodi:docname="window-new-symbolic.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 512 512">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg5"
+     inkscape:cy="341.33595"
+     inkscape:cx="-7.6537653"
+     inkscape:zoom="0.86215612"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     fill="#53b7ec"
+     color="#53b7ec"
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+  <path
+     style="stroke-width:0.839844"
+     inkscape:connector-curvature="0"
+     id="path2"
+     class=""
+     d="M 430.6875,67.875 H 81.3125 C 59.05664,67.875 41,85.93164 41,108.1875 v 295.625 c 0,22.25586 18.05664,40.3125 40.3125,40.3125 h 349.375 C 452.94336,444.125 471,426.06836 471,403.8125 V 108.1875 C 471,85.93164 452.94336,67.875 430.6875,67.875 Z M 148.5,148.5 c 0,14.86523 -12.00977,26.875 -26.875,26.875 -14.86523,0 -26.875,-12.00977 -26.875,-26.875 0,-14.86523 12.00977,-26.875 26.875,-26.875 14.86523,0 26.875,12.00977 26.875,26.875 z m 80.625,0 c 0,14.86523 -12.00977,26.875 -26.875,26.875 -14.86523,0 -26.875,-12.00977 -26.875,-26.875 0,-14.86523 12.00977,-26.875 26.875,-26.875 14.86523,0 26.875,12.00977 26.875,26.875 z m 80.625,0 c 0,14.86523 -12.00977,26.875 -26.875,26.875 -14.86523,0 -26.875,-12.00977 -26.875,-26.875 0,-14.86523 12.00977,-26.875 26.875,-26.875 14.86523,0 26.875,12.00977 26.875,26.875 z"
+     fill="#53b7ec" />
+  <path
+     sodipodi:nodetypes="ccccccccccccc"
+     style="stroke-width:35.8333"
+     inkscape:connector-curvature="0"
+     fill="#ffffff"
+     id="rect4498"
+     class="ColorScheme-Text"
+     d="M 363.5,291.83333 V 363.5 h -71.66667 v 35.83333 H 363.5 V 471 h 35.83333 V 399.33333 H 471 V 363.5 h -71.66667 v -71.66667 z" />
+</svg>

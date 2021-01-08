@@ -1,3 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path d="M2.469 1C1.648 1 1 1.648 1 2.469V13.53C1 14.352 1.648 15 2.469 15h9.062c.821 0 1.469-.648 1.469-1.469V2.47C13 1.648 12.352 1 11.531 1zM2 2h10v11H2z" fill="#787878" color="#787878" style=""/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   height="512"
+   width="512"
+   sodipodi:docname="tablet-symbolic.svg"
+   id="svg4"
+   version="1.1"
+   class="svg-inline--fa fa-tablet-android fa-w-14 fa-9x"
+   viewBox="0 0 512 512"
+   role="img"
+   data-icon="tablet-android"
+   data-prefix="fas"
+   focusable="false"
+   aria-hidden="true">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:cy="256"
+     inkscape:cx="224"
+     inkscape:zoom="1.3964844"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke-width:0.839844"
+     inkscape:connector-curvature="0"
+     id="path2"
+     class=""
+     d="M 403.8125,41 H 108.1875 C 85.931641,41 67.875,59.056641 67.875,81.3125 v 349.375 C 67.875,452.94336 85.931641,471 108.1875,471 h 295.625 c 22.25586,0 40.3125,-18.05664 40.3125,-40.3125 V 81.3125 C 444.125,59.056641 426.06836,41 403.8125,41 Z M 309.75,420.60937 c 0,5.54297 -4.53516,10.07813 -10.07813,10.07813 h -87.34375 c -5.54296,0 -10.07812,-4.53516 -10.07812,-10.07813 v -6.71875 c 0,-5.54296 4.53516,-10.07812 10.07812,-10.07812 h 87.34375 c 5.54297,0 10.07813,4.53516 10.07813,10.07812 z"
+     fill="#787878" />
 </svg>

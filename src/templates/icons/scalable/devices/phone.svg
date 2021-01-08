@@ -1,6 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g color="#53b7ec" fill="#53b7ec" style="">
-        <path d="M4 0C2.993.005 3 1 3 1v13c0 2 2.003 2 2.003 2h7c2 0 2-2 2-2V4s0-2-2-2h-6.75c-.25 0-.25-.25-.25-.25L5 1S4.99.006 4 0zm1.003 4.25c0-.25.25-.25.25-.25h6.5s.25 0 .25.25v9.5c0 .25-.25.25-.25.25h-6.5c-.25 0-.252-.277-.252-.277z" style="marker:none" overflow="visible"/>
-        <path d="M6.003 5.25c0-.25.25-.25.25-.25h4.5s.25 0 .25.25v2.5c0 .25-.25.25-.25.25h-4.5C6.003 8 6 7.723 6 7.723zM6.253 9h1.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-1.5a.25.25 0 0 1-.25-.25v-.5a.25.25 0 0 1 .25-.25zm3 0h1.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-1.5a.25.25 0 0 1-.25-.25v-.5a.25.25 0 0 1 .25-.25zm-3 2h1.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-1.5a.25.25 0 0 1-.25-.25v-.5a.25.25 0 0 1 .25-.25zm3 0h1.5a.25.25 0 0 1 .25.25v.5a.25.25 0 0 1-.25.25h-1.5a.25.25 0 0 1-.25-.25v-.5a.25.25 0 0 1 .25-.25z" style="marker:none" overflow="visible"/>
-    </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="16.000172" version="1.1" style="enable-background:new" id="svg7384" height="16.00005">
+  <title id="title8473" color="#53b7ec" fill="#53b7ec" style="">Gnome Symbolic Icons</title>
+  <defs id="defs7386" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer1" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer7" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer6" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer5" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer9" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer2" color="#53b7ec" fill="#53b7ec" style="">
+    <path d="m 315.99805,348 c -1.00916,0.005 -1,1 -1,1 v 12 c 0,0.006 0.002,0.01 0.002,0.0156 v 0.13672 c 0,1.02342 0.85663,1.84766 1.91992,1.84766 h 5.1582 c 1.06324,0 1.91993,-0.82424 1.91993,-1.84766 v -8.15234 c 0,-1.02342 -0.93671,-2 -2,-2 h -5 v -2 c 0,0 -0.009,-0.99447 -1,-1 z m 1.7539,5 h 3.4961 c 0.41622,0 0.75195,0.33573 0.75195,0.75195 v 1.4961 C 322,355.66427 321.66427,356 321.24805,356 h -3.4961 C 317.33573,356 317,355.66427 317,355.24805 v -1.4961 C 317,353.33573 317.33573,353 317.75195,353 Z M 317.5,358 h 1.14258 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 317.5 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z m 2.85742,0 H 321.5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -1.14258 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z M 317.5,360 h 1.14258 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 H 317.5 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z m 2.85742,0 H 321.5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -1.14258 c -0.277,0 -0.5,-0.223 -0.5,-0.5 0,-0.277 0.223,-0.5 0.5,-0.5 z" id="path3793" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"/>
+  </g>
+  <g transform="translate(-311.99701,-347.99998)" id="layer8" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer3" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-347.99998)" id="layer4" color="#53b7ec" fill="#53b7ec" style=""/>
+  <g transform="translate(-311.99701,-411.99998)" id="layer10" color="#53b7ec" fill="#53b7ec" style=""/>
 </svg>

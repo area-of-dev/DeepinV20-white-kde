@@ -1,1 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><style type="text/css" id="current-color-scheme" color="#787878" fill="#787878" style="">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText{color:#da4453;}</style><path d="m5.0175781 3 1 1h11.9824219v11.984375l1 1v-13.984375zm-2.0175781 2.015625v13.984375h13.984375l-1-1h-11.984375v-11.984375zm2 9.984375v2h5v-2zm7 0v2h2.984375l-2-2z" style="" class="ColorScheme-Text" color="#787878" fill="#787878"/><path d="m-.49999994 4.7426407h1v21.6274173h-1z" style="" class="ColorScheme-NegativeText" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" color="#787878" fill="#787878"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   height="512"
+   width="512"
+   sodipodi:docname="input-touchpad-off-symbolic.svg"
+   id="svg7"
+   version="1.1"
+   viewBox="0 0 512 512">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg7"
+     inkscape:cy="354.3252"
+     inkscape:cx="107.53699"
+     inkscape:zoom="0.88280777"
+     showgrid="false"
+     id="namedview9"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     fill="#787878"
+     color="#787878"
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText{color:#da4453;}</style>
+  <g
+     transform="translate(38,38)"
+     id="g840">
+    <path
+       d="m 57.222411,3 26.875,26.875 H 406.125 V 351.95508 L 433,378.83008 V 3 Z M 3,57.169922 V 433 h 375.83008 l -26.875,-26.875 H 29.875 V 84.044922 Z M 56.75,325.5 v 53.75 H 191.125 V 325.5 Z m 188.125,0 v 53.75 h 80.20508 l -53.75,-53.75 z"
+       class="ColorScheme-Text"
+       color="#787878"
+       fill="#787878"
+       id="path3"
+       inkscape:connector-curvature="0"
+       style="stroke-width:26.875" />
+    <path
+       d="M 3.0000027,22.003495 22.003498,3 433,413.99653 413.99653,433 Z"
+       class="ColorScheme-NegativeText"
+       color="#787878"
+       fill="#787878"
+       id="path5"
+       inkscape:connector-curvature="0"
+       style="stroke-width:26.875" />
+  </g>
+</svg>

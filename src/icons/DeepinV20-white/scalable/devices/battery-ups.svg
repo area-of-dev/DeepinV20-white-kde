@@ -1,10 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16">
-    <defs color="#787878" fill="#787878" style="">
-        <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text {
-                color:#232629;
-            }
-        </style>
-    </defs>
-    <path class="ColorScheme-Text" d="m1.9999973 2.000001v11.999995h12.000014v-11.999995zm1 0.999999h10.000014v9.999996h-10.000014zm5.0000137 0-2.0169629 4 2.0169629 0.0169492v2.9830508l2-4.0000005h-2zm-4.0000137 5.98875v2.999996h1v-2.999996zm2 0v2.999996h1v-2.999996zm4.5000137 0c-0.82843 0-1.5 0.67157-1.5 1.499996 0 0.82843 0.67157 1.5 1.5 1.5s1.5-0.67157 1.5-1.5c0-0.828426-0.67157-1.499996-1.5-1.499996z" fill="#787878" color="#787878" style=""/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="battery-symbolic.svg"
+   id="svg4"
+   version="1.1"
+   class="svg-inline--fa fa-car-battery fa-w-16 fa-9x"
+   viewBox="0 0 512 512"
+   role="img"
+   data-icon="car-battery"
+   data-prefix="fas"
+   focusable="false"
+   aria-hidden="true">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:cy="256"
+     inkscape:cx="256"
+     inkscape:zoom="1.3964844"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2"
+     class=""
+     d="M 444.125,148.5 H 417.25 v -40.3125 c 0,-7.42422 -6.01328,-13.4375 -13.4375,-13.4375 h -80.625 c -7.42422,0 -13.4375,6.01328 -13.4375,13.4375 V 148.5 h -107.5 v -40.3125 c 0,-7.42422 -6.01328,-13.4375 -13.4375,-13.4375 h -80.625 c -7.42422,0 -13.4375,6.01328 -13.4375,13.4375 V 148.5 H 67.875 C 53.034961,148.5 41,160.53496 41,175.375 v 215 c 0,14.84004 12.034961,26.875 26.875,26.875 h 376.25 c 14.84004,0 26.875,-12.03496 26.875,-26.875 v -215 C 471,160.53496 458.96504,148.5 444.125,148.5 Z M 202.25,262.71875 c 0,3.71211 -3.00664,6.71875 -6.71875,6.71875 h -94.0625 c -3.712109,0 -6.71875,-3.00664 -6.71875,-6.71875 v -13.4375 c 0,-3.71211 3.006641,-6.71875 6.71875,-6.71875 h 94.0625 c 3.71211,0 6.71875,3.00664 6.71875,6.71875 z m 215,0 c 0,3.71211 -3.00664,6.71875 -6.71875,6.71875 H 376.9375 v 33.59375 c 0,3.71211 -3.00664,6.71875 -6.71875,6.71875 h -13.4375 c -3.71211,0 -6.71875,-3.00664 -6.71875,-6.71875 V 269.4375 h -33.59375 c -3.71211,0 -6.71875,-3.00664 -6.71875,-6.71875 v -13.4375 c 0,-3.71211 3.00664,-6.71875 6.71875,-6.71875 h 33.59375 v -33.59375 c 0,-3.71211 3.00664,-6.71875 6.71875,-6.71875 h 13.4375 c 3.71211,0 6.71875,3.00664 6.71875,6.71875 v 33.59375 h 33.59375 c 3.71211,0 6.71875,3.00664 6.71875,6.71875 z"
+     style="color:#787878;fill:#787878;stroke-width:0.839844" />
 </svg>

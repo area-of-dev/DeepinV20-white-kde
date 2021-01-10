@@ -14,11 +14,11 @@
 # License along with this program; if not, write to the
 # Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-pkgname="DeepinV20-white"
+pkgname="DeepinV20White"
 pkgver="1.0"
 pkgrel=`date +"%Y%m%d%H%M"`
 epoch=
-pkgdesc="DeepinV20-white KDE Theme"
+pkgdesc="DeepinV20 white KDE Theme"
 arch=("x86_64")
 url=""
 license=("GPL")
@@ -75,18 +75,18 @@ package() {
 	install -d ${DIR_SDDM}
 	install -d ${DIR_ICONS}
 	install -d ${DIR_THEMES}
-	install -d "${DIR_ICONS}/DeepinV20-white"
-	install -d "${DIR_ICONS}/DeepinV20-white/cursors"
-	install -d "${DIR_ICONS}/DeepinV20-dark"
-	install -d "${DIR_ICONS}/DeepinV20-dark/cursors"
+	install -d "${DIR_ICONS}/DeepinV20White"
+	install -d "${DIR_ICONS}/DeepinV20White/cursors"
+	install -d "${DIR_ICONS}/DeepinV20Dark"
+	install -d "${DIR_ICONS}/DeepinV20Dark/cursors"
 
 	cp --recursive ${PWD}/aurorae/*                         ${DIR_AURORAE}
 	cp --recursive ${PWD}/color-schemes/*.colors            ${DIR_SCHEMES}
-	cp --recursive ${PWD}/plasma/desktoptheme/DeepinV20-*	${DIR_PLASMA}
+	cp --recursive ${PWD}/plasma/desktoptheme/DeepinV20*	${DIR_PLASMA}
 	cp --recursive ${PWD}/plasma/look-and-feel/*            ${DIR_LOOKFEEL}
 	cp --recursive ${PWD}/wallpaper/*                       ${DIR_WALLPAPER}
 	cp --recursive ${PWD}/Kvantum/*                         ${DIR_KVANTUM}
-	cp --recursive ${PWD}/themes/DeepinV20-*                ${DIR_THEMES}
-	cp --recursive ${PWD}/sddm/DeepinV20-*                  ${DIR_SDDM}
-	cp --recursive ${PWD}/icons/DeepinV20-white             ${DIR_ICONS}
+	cp --recursive ${PWD}/themes/DeepinV20*                ${DIR_THEMES}
+	cp --recursive ${PWD}/sddm/DeepinV20*                  ${DIR_SDDM}
+	cp --recursive ${PWD}/icons/DeepinV20White             ${DIR_ICONS}
 }

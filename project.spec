@@ -14,8 +14,8 @@
 # License along with this program; if not, write to the
 # Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-Summary: DeepinV20-white KDE Theme
-Name: DeepinV20-white
+Summary: DeepinV20White KDE Theme
+Name: DeepinV20White
 Version: 1.0
 Release: %(date +"%Y%m%d%H%M")
 Source0: %{name}-%{version}-%{release}.tar.gz
@@ -37,7 +37,7 @@ BuildArch: noarch
 %define _unpackaged_files_terminate_build 0
 
 %description
-DeepinV20-white kde is a light clean theme for KDE Plasma desktop.
+DeepinV20White kde is a light clean theme for KDE Plasma desktop.
 
 %prep
 %setup -q
@@ -53,23 +53,23 @@ install -d $RPM_BUILD_ROOT%{DIR_KVANTUM}
 install -d $RPM_BUILD_ROOT%{DIR_SDDM}
 install -d $RPM_BUILD_ROOT%{DIR_ICONS}
 install -d $RPM_BUILD_ROOT%{DIR_THEMES}
-install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white
-install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
-install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
-install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark/cursors
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20White
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20White/cursors
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20Dark
+install -d $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20Dark/cursors
 
 cp --recursive ./src/aurorae/*                                  $RPM_BUILD_ROOT%{DIR_AURORAE}
 cp --recursive ./src/color-schemes/*.colors                     $RPM_BUILD_ROOT%{DIR_SCHEMES}
-cp --recursive ./src/plasma/desktoptheme/DeepinV20-*            $RPM_BUILD_ROOT%{DIR_PLASMA}
+cp --recursive ./src/plasma/desktoptheme/DeepinV20*            $RPM_BUILD_ROOT%{DIR_PLASMA}
 cp --recursive ./src/plasma/look-and-feel/*                     $RPM_BUILD_ROOT%{DIR_LOOKFEEL}
 cp --recursive ./src/wallpaper/*                                $RPM_BUILD_ROOT%{DIR_WALLPAPER}
 cp --recursive ./src/Kvantum/*                                  $RPM_BUILD_ROOT%{DIR_KVANTUM}
-cp --recursive ./src/themes/DeepinV20-*                         $RPM_BUILD_ROOT%{DIR_THEMES}
-cp --recursive ./src/sddm/DeepinV20-*                           $RPM_BUILD_ROOT%{DIR_SDDM}
-cp --recursive ./src/icons/DeepinV20-white                      $RPM_BUILD_ROOT%{DIR_ICONS}
+cp --recursive ./src/themes/DeepinV20*                         $RPM_BUILD_ROOT%{DIR_THEMES}
+cp --recursive ./src/sddm/DeepinV20*                           $RPM_BUILD_ROOT%{DIR_SDDM}
+cp --recursive ./src/icons/DeepinV20White                      $RPM_BUILD_ROOT%{DIR_ICONS}
 
-cp --recursive ./src/cursor/DeepinV20-white/dist/cursors/*      $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-white/cursors
-cp --recursive ./src/cursor/DeepinV20-dark/dist/*               $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20-dark
+cp --recursive ./src/cursor/DeepinV20White/dist/cursors/*      $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20White/cursors
+cp --recursive ./src/cursor/DeepinV20Dark/dist/*               $RPM_BUILD_ROOT%{DIR_ICONS}/DeepinV20Dark
 
 find $RPM_BUILD_ROOT%{DIR_ICONS} -name "*.py"   -exec rm -rf {} \;
 find $RPM_BUILD_ROOT%{DIR_ICONS} -name ".git*"  -exec rm -rf {} \;

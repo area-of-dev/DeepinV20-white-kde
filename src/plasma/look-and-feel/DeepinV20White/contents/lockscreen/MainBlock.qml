@@ -72,8 +72,10 @@ SessionManagementScreen {
             echoMode: TextInput.Password
             revealPasswordButtonShown: hidePasswordRevealIcon
             horizontalAlignment: Text.AlignLeft
-            verticalAlignment: Text.AlignVTop
-            anchors.fill: parent
+            verticalAlignment: Text.AlignVCenter
+            anchors {
+                fill: parent
+            }
 
             style: TextFieldStyle {
                 textColor: "black"

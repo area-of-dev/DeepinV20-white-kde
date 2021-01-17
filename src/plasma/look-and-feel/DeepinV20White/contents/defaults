@@ -15,6 +15,9 @@ defaultWallpaperTheme=DeepinV20White
 [plasmarc][Theme]
 name=DeepinV20White
 
+[kwinrc][Plugins]
+blurEnabled=true
+
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
 ButtonsOnRight=

@@ -58,7 +58,7 @@ docker_run:
 			"cd $(PWD) && $(RUN_ARGS)"
 
 icons:
-	rm -rf $(PWD)/src/plasma/desktoptheme/DeepinV20-white/icons/*
+	rm -rf $(PWD)/src/plasma/desktoptheme/DeepinV20White/icons/*
 	rm -rf $(PWD)/src/icons/DeepinV20-white/scalable
 	rm -rf $(PWD)/src/icons/DeepinV20-white/8x8
 	rm -rf $(PWD)/src/icons/DeepinV20-white/12x12
@@ -75,11 +75,11 @@ icons:
 	mkdir --parents $(PWD)/src/icons/DeepinV20-white/scalable
 
 	python3 $(PWD)/scripts/iconbuilder.py --color=#787878 \
-					--destination=$(PWD)/src/icons/DeepinV20-white/scalable \
+					--destination=$(PWD)/src/icons/DeepinV20White/scalable \
 					--source=$(PWD)/src/templates/icons/scalable
 
 	python3 $(PWD)/scripts/iconbuilder.py --color=#787878 \
-					--destination=$(PWD)/src/plasma/desktoptheme/DeepinV20-white/icons \
+					--destination=$(PWD)/src/plasma/desktoptheme/DeepinV20White/icons \
 					--source=$(PWD)/src/templates/plasma/icons \
 					--skip-symbolic=True 
 

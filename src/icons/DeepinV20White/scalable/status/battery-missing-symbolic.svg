@@ -1,5 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32">
-    <style type="text/css" id="current-color-scheme" color="#787878" fill="#787878" style="">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="battery-caution-symbolic.svg"
+   id="svg13"
+   version="1.1"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg13"
+     inkscape:cy="16"
+     inkscape:cx="16"
+     inkscape:zoom="22.34375"
+     showgrid="false"
+     id="namedview15"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     style=""
+     fill="#787878"
+     color="#787878"
+     id="current-color-scheme"
+     type="text/css">
         .ColorScheme-Text {
             color:#232629;
         }
@@ -7,10 +56,30 @@
             color:#da4453;
         }
     </style>
-    <g class="ColorScheme-Text" fill="#787878" color="#787878" style="">
-        <path d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z"/>
-        <path d="M5 12h21v8H5z"/>
-    </g>
-    <rect class="ColorScheme-NegativeText" fill="#787878" height="10" rx="1" width="10" x="22" y="16" color="#787878" style=""/>
-    <path d="M24.707 18l-.707.707L26.293 21 24 23.293l.707.707L27 21.707 29.293 24l.707-.707L27.707 21 30 18.707 29.293 18 27 20.293z" style="fill: #ffffff;"/>
+  <g
+     style=""
+     id="g7"
+     color="#787878"
+     fill="#787878"
+     class="ColorScheme-Text">
+    <path
+       id="path3"
+       d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z" />
+    <path
+       id="path5"
+       d="M5 12h21v8H5z" />
+  </g>
+  <rect
+     ry="1"
+     y="17.816427"
+     x="21.403584"
+     height="4.211607"
+     width="9.5401058"
+     id="rect856"
+     style="opacity:1;fill:#ffffff;fill-rule:evenodd" />
+  <path
+     style="fill:#ff0000"
+     d="m 26.05,14 c -3.286447,0 -5.95,2.33119 -5.95,5.20625 0,1.629287 0.857643,3.08192 2.196393,4.037166 0.223125,0.160379 0.353273,0.420683 0.313765,0.69494 l -0.21848,1.538637 C 22.359106,25.700118 22.531132,25.9 22.756584,25.9 H 24.5625 v -1.301563 c 0,-0.10226 0.08366,-0.185937 0.185937,-0.185937 h 0.371876 c 0.10226,0 0.185937,0.08366 0.185937,0.185937 V 25.9 h 1.4875 v -1.301563 c 0,-0.10226 0.08366,-0.185937 0.185938,-0.185937 h 0.371875 c 0.10226,0 0.185937,0.08366 0.185937,0.185937 V 25.9 h 1.805916 c 0.225452,0 0.39744,-0.199882 0.364906,-0.423007 l -0.21848,-1.538637 c -0.03948,-0.271928 0.08831,-0.534561 0.313765,-0.69494 C 31.142357,22.28817 32,20.835537 32,19.20625 32,16.33119 29.336447,14 26.05,14 Z m -2.23125,7.4375 c -0.820447,0 -1.4875,-0.667053 -1.4875,-1.4875 0,-0.820447 0.667053,-1.4875 1.4875,-1.4875 0.820447,0 1.4875,0.667053 1.4875,1.4875 0,0.820447 -0.667053,1.4875 -1.4875,1.4875 z m 4.4625,0 c -0.820447,0 -1.4875,-0.667053 -1.4875,-1.4875 0,-0.820447 0.667053,-1.4875 1.4875,-1.4875 0.820447,0 1.4875,0.667053 1.4875,1.4875 0,0.820447 -0.667053,1.4875 -1.4875,1.4875 z"
+     id="path2"
+     inkscape:connector-curvature="0" />
 </svg>

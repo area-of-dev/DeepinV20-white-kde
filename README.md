@@ -1,6 +1,6 @@
-## DeepinV20-white KDE Theme
+## DeepinV20White KDE Theme
 
-DeepinV20-white kde is a light clean theme for KDE Plasma desktop.
+DeepinV20White kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
